@@ -1,0 +1,1367 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MasterKale: SimpleWebAuthn Demo",
+          "description": "A working instance of the SimpleWebAuthn example project showcasing both its server and browser libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T04:20:36Z",
+            "owner": "MasterKale",
+            "repo": "SimpleWebAuthn",
+            "stars": 2307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anders Åberg: .NET library for FIDO2 Demo",
+          "description": "A working implementation library + demo for FIDO2 and WebAuthn using .NET https://fido2-net-lib.passwordless.dev/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-20T15:45:25Z",
+            "owner": "passwordless-lib",
+            "repo": "fido2-net-lib",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DUO: WebAuthn Demo",
+          "description": "A demonstration of the WebAuthn Specification https://webauthn.io/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T18:47:00Z",
+            "owner": "duo-labs",
+            "repo": "webauthn.io",
+            "stars": 743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google: WebAuthn Demo",
+          "description": "An example Java Relying Party implementation of the WebAuthn specification https://webauthndemo.appspot.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-17T12:52:00Z",
+            "owner": "google",
+            "repo": "webauthndemo",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spomky-Labs: Webauthn Demo",
+          "description": "a demo based on Symfony and the PHP framework web-auth/webauthn-framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-01T04:24:01Z",
+            "owner": "web-auth",
+            "repo": "webauthn-framework",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthn.Net Demo",
+          "description": "Demonstration of usage scenarios with WebAuthn.Net and ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T16:26:14Z",
+            "owner": "dodobrands",
+            "repo": "WebAuthn.Net",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jcjones: WebAuthn.bin.coffee DEMO",
+          "description": "A simple site for testing Web Authentication https://webauthn.bin.coffee/.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-01T22:57:35Z",
+            "owner": "jcjones",
+            "repo": "webauthn.bin.coffee",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashlane: Android passkey example app",
+          "description": "An example Android application that demonstrates native passkey support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-01-24T08:43:32Z",
+            "owner": "Dashlane",
+            "repo": "android-passkey-example",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shane Weeden: FIDO2 Viewer",
+          "description": "This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-22T03:59:45Z",
+            "owner": "sbweeden",
+            "repo": "fido2viewer",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuriy Ackermann: FIDO2 Demos",
+          "description": "A set of demos for \"Introduction to WebAuthn API\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-19T11:43:50Z",
+            "owner": "WebauthnWorks",
+            "repo": "PasskeysSamples",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webauthn-skeleton: Node.js/Koa application",
+          "description": "This is a working skeleton of a Node.js/Koa application with passwordless login (Web Authentication API, WebAuthN, FIDO2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T12:51:46Z",
+            "owner": "Hexagon",
+            "repo": "webauthn-skeleton",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FIDO Alliance: Interop WebApp",
+          "description": "As simple test app for FIDO2 servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-05-20T21:07:13Z",
+            "owner": "fido-alliance",
+            "repo": "fido2-interop-webapp",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xavier Renard: Webauthn Demo",
+          "description": "A working WebAuthn demo based on java Spring Boot and react.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-08-20T04:53:26Z",
+            "owner": "xarenard",
+            "repo": "webauthn_fido_java_react",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chris Keogh: dotnetcore IdentityServer4 DEMO",
+          "description": "A WebAuthN demo using dotnetcore and the FIDO2.NET library that integrates passwordless auth with IdentityServer4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-07-15T08:06:19Z",
+            "owner": "dbfr3qs",
+            "repo": "PasswordlessAuthExample",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anders Rundgren: FIDO Web Pay",
+          "description": "Public FIDO-based \"wallet\" demo and associated standards proposal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-09-20T15:58:31Z",
+            "owner": "cyberphone",
+            "repo": "fwp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YubiKey WebAuthn Code Demo",
+          "description": "Complete WebAuthn implementation with YubiKey showing discoverable credentials, traditional authentication flows, and full React/Express stack with proper server-side validation iraycd/yubikey-webauthn-demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-18T15:14:50Z",
+            "owner": "iraycd",
+            "repo": "yubikey-webauthn-demo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Demos"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MasterKale: @simplewebauthn/server",
+          "description": "WebAuthn, Simplified. A TypeScript-first Node.js library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the front end @simplewebauthn/browser (see Client Libs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T04:20:36Z",
+            "owner": "MasterKale",
+            "repo": "SimpleWebAuthn",
+            "stars": 2307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anders Åberg: .NET library for FIDO2",
+          "description": "A working implementation library + demo for fido2 and WebAuthn using .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-20T15:45:25Z",
+            "owner": "passwordless-lib",
+            "repo": "fido2-net-lib",
+            "stars": 1447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthn Go library",
+          "description": "WebAuthn library written in Go (replaces the archived and deprecated DUO: WebAuthn Go library).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:56:57Z",
+            "owner": "go-webauthn",
+            "repo": "webauthn",
+            "stars": 1310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Duo: py_webauthn",
+          "description": "Pythonic WebAuthn. A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T23:07:00Z",
+            "owner": "duo-labs",
+            "repo": "py_webauthn",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cedarcode: WebAuthn Ruby",
+          "description": "Ruby implementation of a WebAuthn Relying Party.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-29T16:53:49Z",
+            "owner": "cedarcode",
+            "repo": "webauthn-ruby",
+            "stars": 770
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kanidm: webauthn-rs",
+          "description": "An implementation of webauthn components for Rustlang servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T08:00:08Z",
+            "owner": "kanidm",
+            "repo": "webauthn-rs",
+            "stars": 696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passwordless.ID: WebAuthn lib",
+          "description": "A simple, minimal, opinionated typescript wrapper around WebAuthn. Features both client side to invoke WebAuthn and server side to verify credentials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T12:27:40Z",
+            "owner": "passwordless-id",
+            "repo": "webauthn",
+            "stars": 610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lbuchs: PHP Webauthn",
+          "description": "A simple PHP WebAuthn (FIDO2) server library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-09-05T06:34:22Z",
+            "owner": "lbuchs",
+            "repo": "WebAuthn",
+            "stars": 590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthn4J Project: WebAuthn4J",
+          "description": "A portable Java library for WebAuthn server side verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T06:40:59Z",
+            "owner": "webauthn4j",
+            "repo": "webauthn4j",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LINE: FIDO2 Server",
+          "description": "FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-04-28T23:36:20Z",
+            "owner": "line",
+            "repo": "line-fido2-server",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: Java WebAuthn Server",
+          "description": "Server-side Web Authentication library for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-11T13:41:02Z",
+            "owner": "Yubico",
+            "repo": "java-webauthn-server",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: python-fido2",
+          "description": "FIDO2 Client and Server lib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T18:03:33Z",
+            "owner": "Yubico",
+            "repo": "python-fido2",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spomky-Labs: WebAuthn Framework",
+          "description": "This framework contains PHP libraries and Symfony bundle to allow developpers to integrate FIDO2 authentication mechanism into their web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-01T04:24:01Z",
+            "owner": "web-auth",
+            "repo": "webauthn-framework",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webauthn-open-source: FIDO2 lib",
+          "description": "A Node.js library for performing FIDO 2.0 / WebAuthn server functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-03T21:58:50Z",
+            "owner": "webauthn-open-source",
+            "repo": "fido2-lib",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asbiin: laravel-webauthn",
+          "description": "A Laravel adapter for the WebAuthn Framework (from Spomky-Labs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-20T11:02:25Z",
+            "owner": "asbiin",
+            "repo": "laravel-webauthn",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthn.Net",
+          "description": "A production-ready, easy-to-use, extensible implementation of WebAuthn for web applications on ASP.NET Core + demo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T16:26:14Z",
+            "owner": "dodobrands",
+            "repo": "WebAuthn.Net",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tangui: Wax",
+          "description": "Elixir implementation of WebAuthn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-04-07T17:13:50Z",
+            "owner": "tanguilp",
+            "repo": "wax",
+            "stars": 231
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpLab: Spring-Security-WebAuthn",
+          "description": "Unofficial WebAuthn module for the Spring Security project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T06:27:56Z",
+            "owner": "webauthn4j",
+            "repo": "webauthn4j-spring-security",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "swift-server: webauthn-swift",
+          "description": "A Swift library for implementing the WebAuthn specs on server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-04T01:31:20Z",
+            "owner": "brokenhandsio",
+            "repo": "swift-webauthn",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eclipse Vert.x: WebAuthn",
+          "description": "Reactive WebAuthn library for Eclipse Vert.x. Works with any Vert.x related framework: Vert.x Web, Quarkus, ES4X, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T15:39:09Z",
+            "owner": "eclipse-vertx",
+            "repo": "vertx-auth",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hanko: Passkey Server",
+          "description": "FIDO2-certified passkey & WebAuthn server written in Go. Includes a JavaScript client SDK and a passkey provider for Auth.js (Next-Auth).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T09:40:47Z",
+            "owner": "teamhanko",
+            "repo": "passkeys",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koesie10: WebAuthn",
+          "description": "Go/JS WebAuthn Library for easy Server/Client integation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2020-11-21T19:16:29Z",
+            "owner": "koesie10",
+            "repo": "webauthn",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wallix: @webauthn/server",
+          "description": "A Node.js library containing easy-to-use helpers to integrate FIDO2. Works in pair with @webauthn/client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-09T00:23:26Z",
+            "owner": "wallix",
+            "repo": "webauthn",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Madwizard.org: WebAuthn PHP library",
+          "description": "WebAuthn server library for PHP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-14T10:40:58Z",
+            "owner": "madwizard-org",
+            "repo": "webauthn-server",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uzyn: Passcay",
+          "description": "Passkey/WebAuthn library for Zig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-06-23T08:02:34Z",
+            "owner": "uzyn",
+            "repo": "passcay",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robur: webauthn",
+          "description": "An IO-agnostic WebAuthn server implementation written in OCaml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2025-08-20T09:24:33Z",
+            "owner": "robur-coop",
+            "repo": "webauthn",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nov Matake: Ruby WebAuthn Lib",
+          "description": "W3C Web Authentication API (a.k.a. WebAuthn / FIDO2) RP library in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2025-12-31T06:33:50Z",
+            "owner": "nov",
+            "repo": "web_authn",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passkeybot",
+          "description": "Add passkey auth with a few server side HTTP handlers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-23T12:26:47Z",
+            "owner": "emadda",
+            "repo": "passkeybot",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "e3b0c442: warp",
+          "description": "A framework-independent Relying Party implemnetation for Go.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-13T00:14:14Z",
+            "owner": "e3b0c442",
+            "repo": "warp",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fumieval: webauthn",
+          "description": "Fledgling Haskell implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-01-05T06:08:05Z",
+            "owner": "fumieval",
+            "repo": "webauthn",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Suby Raman: redux-webauthn",
+          "description": "Redux middleware for registering and authenticating users with the Web Authentication API (FIDO2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T03:25:27Z",
+            "owner": "subyraman",
+            "repo": "redux-webauthn",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firstyear: WebAuthn-RS",
+          "description": "An implementation of Passkeys and Webauthn components for Rust web servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T08:00:12Z",
+            "owner": "Firstyear",
+            "repo": "webauthn-rs",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Server Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MasterKale: @simplewebauthn/browser",
+          "description": "WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end @simplewebauthn/server (see Server Libs). Also works with Duo's py_webauthn.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T04:20:36Z",
+            "owner": "MasterKale",
+            "repo": "SimpleWebAuthn",
+            "stars": 2307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: libfido2",
+          "description": "C client library and command-line tools to communicate with a FIDO device over USB, and to verify attestation and assertion signatures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-17T08:58:46Z",
+            "owner": "Yubico",
+            "repo": "libfido2",
+            "stars": 725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: python-fido2",
+          "description": "Client Lib to talk to a hardware authenticators over USB HID.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T18:03:33Z",
+            "owner": "Yubico",
+            "repo": "python-fido2",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mozilla: authenticator-rs",
+          "description": "Rust library to interact with Security Keys, used by Firefox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-08T20:43:18Z",
+            "owner": "mozilla",
+            "repo": "authenticator-rs",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: Mobile iOS SDK (YubiKit)",
+          "description": "YubiKit is an iOS library provided by Yubico to interact with YubiKeys on iOS devices. Works with other FIDO2 devices as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-02-27T13:04:24Z",
+            "owner": "Yubico",
+            "repo": "yubikit-ios",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Corbado: flutter-passkeys",
+          "description": "Flutter package to provide passkey authentication for iOS and Android apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-06T11:49:32Z",
+            "owner": "corbado",
+            "repo": "flutter-passkeys",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico: Mobile Android SDK (YubiKit)",
+          "description": "YubiKit is an Android library provided by Yubico to interact with YubiKeys on Android devices. Works with other FIDO2 devices as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T10:11:21Z",
+            "owner": "Yubico",
+            "repo": "yubikit-android",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lyo Kato: iOS Webauthn Kit",
+          "description": "This library provides you a way to handle W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-05-08T16:38:48Z",
+            "owner": "lyokato",
+            "repo": "WebAuthnKit-iOS",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keys.pub: go-libfido2",
+          "description": "Go client library (wraps Yubico: libfido2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-10-21T06:16:33Z",
+            "owner": "keys-pub",
+            "repo": "go-libfido2",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COTECH: Hardware Security SDK",
+          "description": "Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-08-22T11:00:24Z",
+            "owner": "hwsecurity-sdk",
+            "repo": "hwsecurity",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vault12: electron-webauthn-mac",
+          "description": "Native WebAuthn/Passkey support for Electron on macOS using Apple's AuthenticationServices framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-12-11T16:27:45Z",
+            "owner": "vault12",
+            "repo": "electron-webauthn-mac",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WIOSense: rauth-android",
+          "description": "Android library for FIDO2 roaming authenticator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-24T13:51:05Z",
+            "owner": "WIOsense",
+            "repo": "rauth-android",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firstyear: webauthn-authenticator-rs",
+          "description": "Rust library for interacting with Security Keys, based on authenticator-rs, but with extensions to support CTAP2.1 and NFC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T08:00:12Z",
+            "owner": "Firstyear",
+            "repo": "webauthn-rs",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Client Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pol Henarejos: pico-fido",
+          "description": "This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T03:34:24Z",
+            "owner": "polhenarejos",
+            "repo": "pico-fido",
+            "stars": 1394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulwarkid: virtual-fido",
+          "description": "virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-01T18:48:41Z",
+            "owner": "bulwarkid",
+            "repo": "virtual-fido",
+            "stars": 1386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tjado mäcke: Authorizer",
+          "description": "An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-19T15:17:51Z",
+            "owner": "tejado",
+            "repo": "Authorizer",
+            "stars": 569
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peter Sanford: TPM FIDO",
+          "description": "tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-11T20:23:04Z",
+            "owner": "psanford",
+            "repo": "tpm-fido",
+            "stars": 381
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheMaxMur: RS-Key",
+          "description": "FIDO2/WebAuthn and U2F security-key firmware for the RP2350, written in Rust with reproducible builds; also implements OpenPGP, PIV and OATH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T02:23:10Z",
+            "owner": "TheMaxMur",
+            "repo": "RS-Key",
+            "stars": 357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daniel Stiner: Rust U2F",
+          "description": "U2F security token emulator written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-22T02:07:10Z",
+            "owner": "danstiner",
+            "repo": "rust-u2f",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fabian Henneke: WearAuthn",
+          "description": "FIDO2 Bluetooth HID/NFC soft token for Wear OS watches with support for resident keys.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2025-01-04T11:18:36Z",
+            "owner": "fmeum",
+            "repo": "WearAuthn",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulwarkid: bulwark-passkeys",
+          "description": "Bulwark passkeys is a desktop application written in Golang supporting CTAP2, similar to a platform-based authenticator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-02T18:20:12Z",
+            "owner": "bulwarkid",
+            "repo": "bulwark-passkey",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scott Leggett: PIV Agent",
+          "description": "An SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T14:18:31Z",
+            "owner": "smlx",
+            "repo": "piv-agent",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radoslav Bodó: soft-webauthn",
+          "description": "Python software webauthn token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-09T19:59:22Z",
+            "owner": "bodik",
+            "repo": "soft-webauthn",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Damian Czaja: android-webauthn-token",
+          "description": "A FIDO2 WebAuthn BLE Android phone token.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2019-06-21T16:26:51Z",
+            "owner": "Trojan295",
+            "repo": "android-webauthn-token",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adessoSE: softauthn",
+          "description": "FIDO2 authenticator emulator/software token in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-11-10T09:24:39Z",
+            "owner": "adessoSE",
+            "repo": "softauthn",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firstyear: webauthn-authenticator-rs",
+          "description": "Contains a software webauthn token with ephemeral attestation CA allowing richer testing of device policies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T08:00:12Z",
+            "owner": "Firstyear",
+            "repo": "webauthn-rs",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dashlane: Passkey Provider Demo for iOS",
+          "description": "A demo passkey provider on iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-02-03T10:34:35Z",
+            "owner": "Dashlane",
+            "repo": "apple-credential-provider-example",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Software Authenticators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Google: OpenSK",
+          "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-06T08:22:13Z",
+            "owner": "google",
+            "repo": "OpenSK",
+            "stars": 3398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conor Patrick: U2F Zero",
+          "description": "U2F Zero is an open source U2F token for 2 factor authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-09-01T01:17:44Z",
+            "owner": "conorpp",
+            "repo": "u2f-zero",
+            "stars": 2450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trezor",
+          "description": "Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-04-19T14:21:30Z",
+            "owner": "trezor",
+            "repo": "trezor-core",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BryanJacobs: FIDO2Applet",
+          "description": "FIDO2 CTAP2 Javacard Applet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-01T00:47:58Z",
+            "owner": "BryanJacobs",
+            "repo": "FIDO2Applet",
+            "stars": 157
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "darconeous: u2f-javacard",
+          "description": "A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard (More recent fork of Ledger).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-08-29T17:45:29Z",
+            "owner": "darconeous",
+            "repo": "u2f-javacard",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Hardware Authenticators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Descope: VirtualWebAuthn Test Tool",
+          "description": "A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-23T14:50:24Z",
+            "owner": "descope",
+            "repo": "virtualwebauthn",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Martin Paljak: YAFU - Yet Another FIDO Utility",
+          "description": "Java library and CLI utility for working with CTAP devices over USBHID and NFC",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-29T14:02:50Z",
+            "owner": "martinpaljak",
+            "repo": "YAFU",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MasterKale: WebAuthn Previewer",
+          "description": "A simple website for previewing WebAuthn attestations and assertions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-30T21:50:55Z",
+            "owner": "MasterKale",
+            "repo": "webauthn-previewer",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shane B Weeden: FIDO2 Postman Clients",
+          "description": "FIDO2 Postman clients to easily test your FIDO2 API endpoints.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-27T01:20:28Z",
+            "owner": "sbweeden",
+            "repo": "fido2-postman-clients",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAuthnRecorder",
+          "description": "Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-07-29T15:34:05Z",
+            "owner": "inabajunmr",
+            "repo": "WebAuthnRecorder",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Passkey Origin Validator",
+          "description": "CLI to verify Passkey Related Origin Request .well-known/webauthn configuration, shows label counts and origin matching.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T16:48:47Z",
+            "owner": "developmeh",
+            "repo": "passkey-origin-validator",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Dev tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FIDO Alliance: How To FIDO",
+          "description": "A definitive guide on good FIDO UI/UX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-10-20T17:20:25Z",
+            "owner": "fido-alliance",
+            "repo": "how-to-fido",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico Labs: WebAuthn Starter Kit Reference Deployment",
+          "description": "How an identifier-first flow helps migrate users towards passwordless. Integrates Yubico's java-webauthn-server with AWS Lambda and AWS Cognito. Includes example web and iOS clients. See Reference Architecture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-17T21:43:30Z",
+            "owner": "YubicoLabs",
+            "repo": "WebAuthnKit",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yubico Labs: Securing a Website with Passwordless Authentication",
+          "description": "Yubico java discoverable credentials workshop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-12-05T22:21:55Z",
+            "owner": "YubicoLabs",
+            "repo": "java-webauthn-passwordless-workshop",
+            "stars": 25
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebAuthn Wiki",
+          "description": "WebAuthn API spec official explainers and wiki",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-06T22:46:00Z",
+            "owner": "w3c",
+            "repo": "webauthn",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ssheasy",
+          "description": "SSH client that runs in the browser and implements WebAuthn based SSH authentication. WebAuthn authentication is implemented by implementing OpenSSH's webauthn-sk-ecdsa-sha2-nistp256@openssh.com key type in go and compiling it to WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-23T17:27:14Z",
+            "owner": "hullarb",
+            "repo": "ssheasy",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webauthn-open-source: WebAuthn Logos",
+          "description": "Awesome webauthn logos by Adam Powers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-30T14:42:09Z",
+            "owner": "webauthn-open-source",
+            "repo": "webauthn-logos",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTAP2.1 Migration Guide",
+          "description": "A guide for those who have CTAP2.0 authenticator, and they want to migrate to CTAP2.1",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-02-01T20:26:36Z",
+            "owner": "WebauthnWorks",
+            "repo": "CTAP2.1-Migration-Guide",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "What is ?\nWhat is ?\nFIDO2 or WebAuthn?\nI would like to advertise my company product here!\nOtherwise we have strict no ads policy. We will only link to open source repos and actual articles. No company websites.",
+      "items": [],
+      "title": "FAQ"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:25:18.259Z",
+    "original_repository": "yackermann/awesome-webauthn",
+    "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
+    "enhanced_repository": "enhansome/enhansome-webauthn",
+    "enhanced_repository_description": null,
+    "title": "🔐 WebAuthn and Passkeys Awesome with stars"
+  }
+}
