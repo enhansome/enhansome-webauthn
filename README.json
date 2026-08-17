@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T02:30:32Z",
+            "last_commit": "2026-08-16T12:57:29Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
             "stars": 1311
@@ -510,7 +510,7 @@
             "last_commit": "2026-08-10T15:39:09Z",
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 174
+            "stars": 175
           }
         },
         {
@@ -782,7 +782,7 @@
             "last_commit": "2026-08-10T10:11:21Z",
             "owner": "Yubico",
             "repo": "yubikit-android",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 371
+            "stars": 375
           }
         },
         {
@@ -1088,7 +1088,7 @@
             "last_commit": "2026-08-06T08:22:13Z",
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3399
+            "stars": 3398
           }
         },
         {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T04:20:00.438Z",
+    "last_updated": "2026-08-17T04:24:39.664Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
     "enhanced_repository": "enhansome/enhansome-webauthn",
