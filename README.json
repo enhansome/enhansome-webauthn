@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2310
+            "stars": 2311
           }
         },
         {
@@ -244,7 +244,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2310
+            "stars": 2311
           }
         },
         {
@@ -269,10 +269,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T12:57:29Z",
+            "last_commit": "2026-08-18T03:01:55Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1311
+            "stars": 1312
           }
         },
         {
@@ -353,7 +353,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T00:11:10Z",
+            "last_commit": "2026-08-17T05:11:55Z",
             "owner": "webauthn4j",
             "repo": "webauthn4j",
             "stars": 585
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-14T13:42:49Z",
+            "last_commit": "2026-08-17T13:42:48Z",
             "owner": "Yubico",
             "repo": "java-webauthn-server",
             "stars": 561
@@ -698,7 +698,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2310
+            "stars": 2311
           }
         },
         {
@@ -737,7 +737,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T15:57:48Z",
+            "last_commit": "2026-08-17T22:15:32Z",
             "owner": "mozilla",
             "repo": "authenticator-rs",
             "stars": 314
@@ -765,7 +765,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-06T11:49:32Z",
+            "last_commit": "2026-08-17T21:40:46Z",
             "owner": "corbado",
             "repo": "flutter-passkeys",
             "stars": 185
@@ -779,7 +779,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-10T10:11:21Z",
+            "last_commit": "2026-08-17T10:06:30Z",
             "owner": "Yubico",
             "repo": "yubikit-android",
             "stars": 157
@@ -883,7 +883,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T03:00:11Z",
+            "last_commit": "2026-08-17T16:48:09Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
             "stars": 1406
@@ -928,7 +928,7 @@
             "last_commit": "2024-05-11T20:23:04Z",
             "owner": "psanford",
             "repo": "tpm-fido",
-            "stars": 381
+            "stars": 382
           }
         },
         {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 375
+            "stars": 378
           }
         },
         {
@@ -970,7 +970,7 @@
             "last_commit": "2025-01-04T11:18:36Z",
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 267
+            "stars": 268
           }
         },
         {
@@ -995,7 +995,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-01T14:18:31Z",
+            "last_commit": "2026-08-17T13:09:25Z",
             "owner": "smlx",
             "repo": "piv-agent",
             "stars": 107
@@ -1130,7 +1130,7 @@
             "last_commit": "2026-08-01T00:47:58Z",
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
-            "stars": 157
+            "stars": 158
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-08-06T22:46:00Z",
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1432
+            "stars": 1434
           }
         },
         {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T04:24:39.664Z",
+    "last_updated": "2026-08-18T04:19:04.864Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
     "enhanced_repository": "enhansome/enhansome-webauthn",
