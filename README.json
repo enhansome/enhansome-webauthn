@@ -286,7 +286,7 @@
             "last_commit": "2026-06-29T23:07:00Z",
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1056
+            "stars": 1058
           }
         },
         {
@@ -311,7 +311,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-30T08:00:08Z",
+            "last_commit": "2026-08-19T01:29:33Z",
             "owner": "kanidm",
             "repo": "webauthn-rs",
             "stars": 698
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-17T05:11:55Z",
             "owner": "webauthn4j",
             "repo": "webauthn4j",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -709,10 +709,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-17T08:58:46Z",
+            "last_commit": "2026-08-18T07:50:39Z",
             "owner": "Yubico",
             "repo": "libfido2",
-            "stars": 726
+            "stars": 727
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-08-17T21:40:46Z",
             "owner": "corbado",
             "repo": "flutter-passkeys",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -883,10 +883,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-17T16:48:09Z",
+            "last_commit": "2026-08-19T03:40:48Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1406
+            "stars": 1410
           }
         },
         {
@@ -900,7 +900,7 @@
             "last_commit": "2024-08-01T18:48:41Z",
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1386
+            "stars": 1387
           }
         },
         {
@@ -919,20 +919,6 @@
         },
         {
           "node_type": "item",
-          "title": "Peter Sanford: TPM FIDO",
-          "description": "tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-11T20:23:04Z",
-            "owner": "psanford",
-            "repo": "tpm-fido",
-            "stars": 382
-          }
-        },
-        {
-          "node_type": "item",
           "title": "TheMaxMur: RS-Key",
           "description": "FIDO2/WebAuthn and U2F security-key firmware for the RP2350, written in Rust with reproducible builds; also implements OpenPGP, PIV and OATH.",
           "children": [],
@@ -942,7 +928,21 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 378
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Peter Sanford: TPM FIDO",
+          "description": "tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-11T20:23:04Z",
+            "owner": "psanford",
+            "repo": "tpm-fido",
+            "stars": 383
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-08-06T22:46:00Z",
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1434
+            "stars": 1435
           }
         },
         {
@@ -1357,7 +1357,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:19:04.864Z",
+    "last_updated": "2026-08-19T04:20:37.137Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
     "enhanced_repository": "enhansome/enhansome-webauthn",
