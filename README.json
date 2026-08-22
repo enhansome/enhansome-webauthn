@@ -15,7 +15,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2313
+            "stars": 2314
           }
         },
         {
@@ -261,7 +261,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2313
+            "stars": 2314
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 438441323,
             "language": "Go",
-            "last_commit": "2026-08-20T10:04:11Z",
+            "last_commit": "2026-08-22T03:55:20Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1312
+            "stars": 1313
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2026-06-29T18:03:33Z",
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 543
+            "stars": 542
           }
         },
         {
@@ -621,7 +621,7 @@
             "last_commit": "2026-06-23T08:02:34Z",
             "owner": "uzyn",
             "repo": "passcay",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-08-14T16:17:53Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2313
+            "stars": 2314
           }
         },
         {
@@ -777,7 +777,7 @@
             "last_commit": "2026-06-29T18:03:33Z",
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 543
+            "stars": 542
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-20T02:56:31Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1420
+            "stars": 1426
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2024-08-01T18:48:41Z",
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1387
+            "stars": 1386
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2026-08-15T01:41:52Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 396
+            "stars": 399
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2024-05-11T20:23:04Z",
             "owner": "psanford",
             "repo": "tpm-fido",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -1020,7 +1020,7 @@
             "archived": false,
             "id": 103092797,
             "language": "Rust",
-            "last_commit": "2024-01-22T02:07:10Z",
+            "last_commit": "2026-08-21T23:56:17Z",
             "owner": "danstiner",
             "repo": "rust-u2f",
             "stars": 302
@@ -1389,7 +1389,7 @@
             "archived": false,
             "id": 51303856,
             "language": "HTML",
-            "last_commit": "2026-08-20T16:37:01Z",
+            "last_commit": "2026-08-21T08:23:07Z",
             "owner": "w3c",
             "repo": "webauthn",
             "stars": 1435
@@ -1407,7 +1407,7 @@
             "last_commit": "2026-02-23T17:27:14Z",
             "owner": "hullarb",
             "repo": "ssheasy",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:22:16.329Z",
+    "last_updated": "2026-08-22T04:16:20.070Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_id": 164412657,
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
