@@ -30,7 +30,7 @@
             "last_commit": "2026-04-20T15:45:25Z",
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1447
+            "stars": 1448
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-04-20T15:45:25Z",
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1447
+            "stars": 1448
           }
         },
         {
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 438441323,
             "language": "Go",
-            "last_commit": "2026-08-22T03:55:20Z",
+            "last_commit": "2026-08-22T07:25:15Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1313
+            "stars": 1314
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-06-29T23:07:00Z",
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1058
+            "stars": 1057
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 134147639,
             "language": "Java",
-            "last_commit": "2026-08-17T05:11:55Z",
+            "last_commit": "2026-08-22T16:07:14Z",
             "owner": "webauthn4j",
             "repo": "webauthn4j",
-            "stars": 588
+            "stars": 589
           }
         },
         {
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-20T02:56:31Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1426
+            "stars": 1428
           }
         },
         {
@@ -990,10 +990,10 @@
             "archived": false,
             "id": 1266469959,
             "language": "Rust",
-            "last_commit": "2026-08-15T01:41:52Z",
+            "last_commit": "2026-08-22T14:13:25Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 399
+            "stars": 401
           }
         },
         {
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-08-06T08:22:13Z",
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3399
+            "stars": 3400
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-08-01T00:47:58Z",
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -1224,7 +1224,7 @@
             "last_commit": "2021-08-29T17:45:29Z",
             "owner": "darconeous",
             "repo": "u2f-javacard",
-            "stars": 36
+            "stars": 37
           }
         }
       ],
@@ -1392,7 +1392,7 @@
             "last_commit": "2026-08-21T08:23:07Z",
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1435
+            "stars": 1434
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:16:20.070Z",
+    "last_updated": "2026-08-23T04:20:51.526Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_id": 164412657,
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
