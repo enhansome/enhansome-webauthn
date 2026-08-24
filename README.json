@@ -291,7 +291,7 @@
             "last_commit": "2026-08-22T07:25:15Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1314
+            "stars": 1315
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-06-29T23:07:00Z",
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1057
+            "stars": 1058
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-19T01:29:33Z",
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 699
+            "stars": 700
           }
         },
         {
@@ -762,7 +762,7 @@
             "last_commit": "2026-08-18T07:50:39Z",
             "owner": "Yubico",
             "repo": "libfido2",
-            "stars": 727
+            "stars": 728
           }
         },
         {
@@ -792,7 +792,7 @@
             "last_commit": "2026-08-17T22:15:32Z",
             "owner": "mozilla",
             "repo": "authenticator-rs",
-            "stars": 314
+            "stars": 315
           }
         },
         {
@@ -945,10 +945,10 @@
             "archived": false,
             "id": 531127925,
             "language": "C",
-            "last_commit": "2026-08-20T02:56:31Z",
+            "last_commit": "2026-08-24T03:01:34Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1428
+            "stars": 1435
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2024-08-01T18:48:41Z",
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1386
+            "stars": 1387
           }
         },
         {
@@ -990,10 +990,10 @@
             "archived": false,
             "id": 1266469959,
             "language": "Rust",
-            "last_commit": "2026-08-22T14:13:25Z",
+            "last_commit": "2026-08-24T02:53:32Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 401
+            "stars": 407
           }
         },
         {
@@ -1038,7 +1038,7 @@
             "last_commit": "2025-01-04T11:18:36Z",
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 269
+            "stars": 270
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:20:51.526Z",
+    "last_updated": "2026-08-24T04:26:55.851Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_id": 164412657,
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
