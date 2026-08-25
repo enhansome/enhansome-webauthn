@@ -993,7 +993,7 @@
             "last_commit": "2026-08-24T02:53:32Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 417
+            "stars": 418
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:21:42.058Z",
+    "last_updated": "2026-08-25T05:59:31.896Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_id": 164412657,
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
