@@ -12,7 +12,7 @@
             "archived": false,
             "id": 266156053,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:17:53Z",
+            "last_commit": "2026-08-26T00:52:56Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2316
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 266156053,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:17:53Z",
+            "last_commit": "2026-08-26T00:52:56Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2316
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-22T07:25:15Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1316
+            "stars": 1318
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-06-29T23:07:00Z",
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 27583882,
             "language": "Java",
-            "last_commit": "2026-08-10T15:39:09Z",
+            "last_commit": "2026-08-25T15:33:06Z",
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
             "stars": 175
@@ -723,7 +723,7 @@
             "archived": false,
             "id": 683865038,
             "language": null,
-            "last_commit": "2026-07-30T08:00:12Z",
+            "last_commit": "2026-08-25T06:48:47Z",
             "owner": "Firstyear",
             "repo": "webauthn-rs",
             "stars": 9
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 266156053,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T16:17:53Z",
+            "last_commit": "2026-08-26T00:52:56Z",
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2316
@@ -882,7 +882,7 @@
             "last_commit": "2025-08-22T11:00:24Z",
             "owner": "hwsecurity-sdk",
             "repo": "hwsecurity",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -924,7 +924,7 @@
             "archived": false,
             "id": 683865038,
             "language": null,
-            "last_commit": "2026-07-30T08:00:12Z",
+            "last_commit": "2026-08-25T06:48:47Z",
             "owner": "Firstyear",
             "repo": "webauthn-rs",
             "stars": 9
@@ -945,10 +945,10 @@
             "archived": false,
             "id": 531127925,
             "language": "C",
-            "last_commit": "2026-08-25T02:57:20Z",
+            "last_commit": "2026-08-26T03:04:29Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1436
+            "stars": 1441
           }
         },
         {
@@ -963,7 +963,7 @@
             "last_commit": "2024-08-01T18:48:41Z",
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1387
+            "stars": 1388
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2026-08-24T02:53:32Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 418
+            "stars": 423
           }
         },
         {
@@ -1068,7 +1068,7 @@
             "last_commit": "2026-08-17T13:09:25Z",
             "owner": "smlx",
             "repo": "piv-agent",
-            "stars": 107
+            "stars": 108
           }
         },
         {
@@ -1125,7 +1125,7 @@
             "archived": false,
             "id": 683865038,
             "language": null,
-            "last_commit": "2026-07-30T08:00:12Z",
+            "last_commit": "2026-08-25T06:48:47Z",
             "owner": "Firstyear",
             "repo": "webauthn-rs",
             "stars": 9
@@ -1164,7 +1164,7 @@
             "last_commit": "2026-08-06T08:22:13Z",
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3402
+            "stars": 3403
           }
         },
         {
@@ -1305,7 +1305,7 @@
             "last_commit": "2025-07-29T15:34:05Z",
             "owner": "inabajunmr",
             "repo": "WebAuthnRecorder",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:59:31.896Z",
+    "last_updated": "2026-08-26T04:21:52.397Z",
     "original_repository": "yackermann/awesome-webauthn",
     "original_repository_id": 164412657,
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
