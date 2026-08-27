@@ -288,7 +288,7 @@
             "archived": false,
             "id": 438441323,
             "language": "Go",
-            "last_commit": "2026-08-27T12:05:25Z",
+            "last_commit": "2026-08-27T12:44:02Z",
             "owner": "go-webauthn",
             "repo": "webauthn",
             "stars": 1319
@@ -948,7 +948,7 @@
             "last_commit": "2026-08-26T03:04:29Z",
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1450
+            "stars": 1451
           }
         },
         {
@@ -993,7 +993,7 @@
             "last_commit": "2026-08-26T20:43:29Z",
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 431
+            "stars": 432
           }
         },
         {
@@ -1445,7 +1445,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:27.382Z",
+    "last_updated": "2026-08-27T14:45:15.381Z",
     "original_repository_info": {
       "archived": false,
       "id": 164412657,
