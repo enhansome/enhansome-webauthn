@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -899,7 +899,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -1725,7 +1725,7 @@
             "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1390,
+            "stars": 1391,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 9,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 440,
+            "stars": 441,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3406,
+            "stars": 3407,
             "topics": [
               "ctap2",
               "embedded",
@@ -2234,7 +2234,7 @@
             "open_issues": 10,
             "owner": "martinpaljak",
             "repo": "YAFU",
-            "stars": 44,
+            "stars": 46,
             "topics": [
               "ctap2",
               "fido2",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:26:09.002Z",
+    "last_updated": "2026-08-29T10:25:21.063Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
