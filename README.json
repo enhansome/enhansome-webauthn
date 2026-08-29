@@ -10,12 +10,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.",
+            "homepage": "https://simplewebauthn.dev",
             "id": 266156053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:52:56Z",
+            "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2317
+            "stars": 2317,
+            "topics": [
+              "browser",
+              "commonjs",
+              "deno",
+              "denoland",
+              "esm",
+              "fido",
+              "node",
+              "passkeys",
+              "typescript",
+              "umd",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -26,12 +43,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passkeys, FIDO2 and WebAuthn .NET library.",
+            "homepage": "https://fido2.andersaberg.com",
             "id": 135551045,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-20T15:45:25Z",
+            "open_issues": 35,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1449
+            "stars": 1449,
+            "topics": [
+              "asp-net-core",
+              "ctap",
+              "fido",
+              "fido2",
+              "net-core",
+              "passkeys",
+              "passwordless",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -42,12 +73,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code for webauthn.io, a demonstration of WebAuthn.",
+            "homepage": "https://webauthn.io",
             "id": 158563811,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-06T18:47:00Z",
+            "open_issues": 3,
             "owner": "duo-labs",
             "repo": "webauthn.io",
-            "stars": 743
+            "stars": 743,
+            "topics": [
+              "authentication",
+              "demo",
+              "passkeys",
+              "python",
+              "security",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -58,12 +101,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example Node.js Relying Party implementation of the WebAuthn specification",
+            "homepage": "https://try-webauthn.appspot.com",
             "id": 93883421,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T12:52:00Z",
+            "open_issues": 7,
             "owner": "google",
             "repo": "webauthndemo",
-            "stars": 632
+            "stars": 632,
+            "topics": [
+              "authentication",
+              "authentication-backend",
+              "example",
+              "google-appengine",
+              "relying-party",
+              "security",
+              "webauthn",
+              "webauthn-library"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -74,12 +131,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO-U2F / FIDO2 / Webauthn Framework",
+            "homepage": null,
             "id": 158743608,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:29:28Z",
+            "open_issues": 14,
             "owner": "web-auth",
             "repo": "webauthn-framework",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "authentication",
+              "factor-authentication",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "hacktoberfest",
+              "php",
+              "safetynet",
+              "symfony",
+              "symfony-bundle",
+              "u2f",
+              "u2f-protocol",
+              "webauthn",
+              "webauthn-bundle",
+              "webauthn-framework",
+              "webauthn-library",
+              "webauthn-support"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -90,12 +170,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn (Passkeys) library for .NET.",
+            "homepage": "https://webauthn.dodo.dev/passwordless",
             "id": 730138773,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-29T16:26:14Z",
+            "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "asp-net",
+              "asp-net-core",
+              "aspnetcore",
+              "dotnet",
+              "dotnet-core",
+              "fido2",
+              "passkey",
+              "passkeys",
+              "u2f",
+              "u2f-server",
+              "webauthn",
+              "webauthn-library"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -106,12 +204,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple site for testing Web Authentication",
+            "homepage": "https://webauthn.bin.coffee/",
             "id": 102907721,
             "language": "JavaScript",
+            "license": "MPL-2.0",
             "last_commit": "2020-07-01T22:57:35Z",
+            "open_issues": 5,
             "owner": "jcjones",
             "repo": "webauthn.bin.coffee",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -122,12 +225,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example application that demonstrates the use of passkeys to sign up and sign in",
+            "homepage": null,
             "id": 624781115,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-24T08:43:32Z",
+            "open_issues": 1,
             "owner": "Dashlane",
             "repo": "android-passkey-example",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "android",
+              "dashlane",
+              "example",
+              "passkey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -138,12 +251,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 206748088,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-22T03:59:45Z",
+            "open_issues": 1,
             "owner": "sbweeden",
             "repo": "fido2viewer",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -154,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://webauthnworks.github.io/PasskeysSamples/",
             "id": 163420431,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-11-19T11:43:50Z",
+            "open_issues": 0,
             "owner": "WebauthnWorks",
             "repo": "PasskeysSamples",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -170,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skeleton for a Web Authentication API website",
+            "homepage": null,
             "id": 435254643,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-19T12:51:46Z",
+            "open_issues": 2,
             "owner": "Hexagon",
             "repo": "webauthn-skeleton",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -186,12 +314,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "As simple interoperability app for FIDO2 servers [Please install me for interop]",
+            "homepage": null,
             "id": 142495861,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-05-20T21:07:13Z",
+            "open_issues": 0,
             "owner": "fido-alliance",
             "repo": "fido2-interop-webapp",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "conformance"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -202,12 +337,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webauthn demo with react.js and Spring boot",
+            "homepage": null,
             "id": 251258539,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-20T04:53:26Z",
+            "open_issues": 22,
             "owner": "xarenard",
             "repo": "webauthn_fido_java_react",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "assertion",
+              "attestation",
+              "authentication",
+              "fido",
+              "fido2",
+              "reactjs",
+              "spring-boot",
+              "touchid",
+              "touchid-authentication",
+              "webauthn",
+              "webauthn-demo",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -218,12 +371,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of PasswordlessAuth using IdentityServer and FIDO2.NET",
+            "homepage": null,
             "id": 365672090,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2021-07-15T08:06:19Z",
+            "open_issues": 0,
             "owner": "dbfr3qs",
             "repo": "PasswordlessAuthExample",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -234,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO Web Pay - The emulator",
+            "homepage": null,
             "id": 569389827,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-20T15:58:31Z",
+            "open_issues": 0,
             "owner": "cyberphone",
             "repo": "fwp",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -250,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Professional-grade full-stack WebAuthn implementation demonstrating multiple authentication flows with YubiKey hardware security keys. Features complete client-server architecture with proper credential validation, storage, and comprehensive educational examples.",
+            "homepage": null,
             "id": 1040166926,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-18T15:14:50Z",
+            "open_issues": 0,
             "owner": "iraycd",
             "repo": "yubikey-webauthn-demo",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -272,12 +440,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.",
+            "homepage": "https://simplewebauthn.dev",
             "id": 266156053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:52:56Z",
+            "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2317
+            "stars": 2317,
+            "topics": [
+              "browser",
+              "commonjs",
+              "deno",
+              "denoland",
+              "esm",
+              "fido",
+              "node",
+              "passkeys",
+              "typescript",
+              "umd",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -288,12 +473,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Passkeys, FIDO2 and WebAuthn .NET library.",
+            "homepage": "https://fido2.andersaberg.com",
             "id": 135551045,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-04-20T15:45:25Z",
+            "open_issues": 35,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1449
+            "stars": 1449,
+            "topics": [
+              "asp-net-core",
+              "ctap",
+              "fido",
+              "fido2",
+              "net-core",
+              "passkeys",
+              "passwordless",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -304,12 +503,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO2 Conformant WebAuthn and Passkey backend library for golang",
+            "homepage": null,
             "id": 438441323,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T12:44:02Z",
+            "open_issues": 10,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1320
+            "stars": 1321,
+            "topics": [
+              "ctap2",
+              "fido2",
+              "go",
+              "golang",
+              "passkeys",
+              "passwordless",
+              "passwordless-authentication",
+              "security",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -320,12 +534,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pythonic WebAuthn 🐍",
+            "homepage": "https://duo-labs.github.io/py_webauthn",
             "id": 110277267,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T23:07:00Z",
+            "open_issues": 1,
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1059
+            "stars": 1059,
+            "topics": [
+              "duo",
+              "fido2",
+              "pip",
+              "pypi",
+              "python",
+              "python3",
+              "security",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -336,12 +564,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn ruby server library ― Make your Ruby/Rails web server become a conformant WebAuthn Relying Party",
+            "homepage": "https://rubygems.org/gems/webauthn",
             "id": 132816323,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-29T16:53:49Z",
+            "open_issues": 8,
             "owner": "cedarcode",
             "repo": "webauthn-ruby",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "2fa",
+              "2fa-security",
+              "authentication",
+              "fido2",
+              "passkey",
+              "passkeys",
+              "passwordless",
+              "passwordless-login",
+              "relying-party",
+              "ruby",
+              "two-factor-authentication",
+              "web-authentication",
+              "webauthn",
+              "webauthn-library",
+              "webauthn-ruby",
+              "webauthn-server"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -352,12 +602,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of webauthn components for Rustlang servers",
+            "homepage": null,
             "id": 180746955,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-19T01:29:33Z",
+            "open_issues": 32,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 702
+            "stars": 702,
+            "topics": [
+              "security",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -368,12 +626,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webauthn / passkeys helper library to make your life easier. Client side, server side and demo included.",
+            "homepage": "https://webauthn.passwordless.id",
             "id": 523630008,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-23T12:27:40Z",
+            "open_issues": 1,
             "owner": "passwordless-id",
             "repo": "webauthn",
-            "stars": 610
+            "stars": 610,
+            "topics": [
+              "authentication",
+              "passkeys",
+              "passwordless",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -384,12 +652,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple PHP WebAuthn (FIDO2/Passkey) server library",
+            "homepage": "https://webauthn.lubu.ch",
             "id": 149437753,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-09-05T06:34:22Z",
+            "open_issues": 48,
             "owner": "lbuchs",
             "repo": "WebAuthn",
-            "stars": 591
+            "stars": 591,
+            "topics": [
+              "2fa",
+              "apple-authenticator",
+              "fido",
+              "fido2",
+              "fido2-authenticator",
+              "passkey",
+              "passkeys",
+              "php-library",
+              "php-webauthn",
+              "safetynet-api",
+              "security",
+              "two-factor-authentication",
+              "webauthn",
+              "windows-hello"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -400,12 +688,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A portable Java library for WebAuthn(Passkeys) server side verification",
+            "homepage": "https://webauthn4j.github.io/webauthn4j/en/",
             "id": 134147639,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:27:04Z",
+            "open_issues": 17,
             "owner": "webauthn4j",
             "repo": "webauthn4j",
-            "stars": 590
+            "stars": 590,
+            "topics": [
+              "authentication",
+              "fido",
+              "fido2",
+              "java",
+              "passkey",
+              "passkeys",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -416,12 +718,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples.",
+            "homepage": null,
             "id": 388284349,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-28T23:36:20Z",
+            "open_issues": 9,
             "owner": "line",
             "repo": "line-fido2-server",
-            "stars": 584
+            "stars": 584,
+            "topics": [
+              "example",
+              "fido2",
+              "java",
+              "passwordless",
+              "relying-party",
+              "security",
+              "spring-boot",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -432,12 +748,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Server-side Web Authentication library for Java https://www.w3.org/TR/webauthn/#rp-operations",
+            "homepage": null,
             "id": 132609722,
             "language": "Scala",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T14:08:37Z",
+            "open_issues": 19,
             "owner": "Yubico",
             "repo": "java-webauthn-server",
-            "stars": 561
+            "stars": 561,
+            "topics": [
+              "authentication",
+              "fido",
+              "fido-u2f",
+              "java",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -448,12 +776,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides library functionality for FIDO 2.0, including communication with a device over USB.",
+            "homepage": "https://developers.yubico.com/python-fido2/",
             "id": 125505498,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-29T18:03:33Z",
+            "open_issues": 31,
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "fido2",
+              "webauthn",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -464,12 +801,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO-U2F / FIDO2 / Webauthn Framework",
+            "homepage": null,
             "id": 158743608,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:29:28Z",
+            "open_issues": 14,
             "owner": "web-auth",
             "repo": "webauthn-framework",
-            "stars": 515
+            "stars": 515,
+            "topics": [
+              "authentication",
+              "factor-authentication",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "hacktoberfest",
+              "php",
+              "safetynet",
+              "symfony",
+              "symfony-bundle",
+              "u2f",
+              "u2f-protocol",
+              "webauthn",
+              "webauthn-bundle",
+              "webauthn-framework",
+              "webauthn-library",
+              "webauthn-support"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -480,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A node.js library for performing FIDO 2.0 / WebAuthn server functionality",
+            "homepage": "https://webauthn.io",
             "id": 81275777,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T21:58:50Z",
+            "open_issues": 23,
             "owner": "webauthn-open-source",
             "repo": "fido2-lib",
-            "stars": 444
+            "stars": 444,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -496,12 +861,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webauthn adapter for Laravel",
+            "homepage": null,
             "id": 178548089,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:02:44Z",
+            "open_issues": 8,
             "owner": "asbiin",
             "repo": "laravel-webauthn",
-            "stars": 311
+            "stars": 312,
+            "topics": [
+              "authentication",
+              "hacktoberfest",
+              "laravel",
+              "laravel-webauthn",
+              "library",
+              "php",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -512,12 +890,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn (Passkeys) library for .NET.",
+            "homepage": "https://webauthn.dodo.dev/passwordless",
             "id": 730138773,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-29T16:26:14Z",
+            "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "asp-net",
+              "asp-net-core",
+              "aspnetcore",
+              "dotnet",
+              "dotnet-core",
+              "fido2",
+              "passkey",
+              "passkeys",
+              "u2f",
+              "u2f-server",
+              "webauthn",
+              "webauthn-library"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -528,12 +924,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn for Elixir",
+            "homepage": "https://hexdocs.pm/wax_",
             "id": 164239632,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-07T17:13:50Z",
+            "open_issues": 8,
             "owner": "tanguilp",
             "repo": "wax",
-            "stars": 232
+            "stars": 232,
+            "topics": [
+              "fido2",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -544,12 +948,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn4J Extension for Spring Security",
+            "homepage": null,
             "id": 125645968,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:17:05Z",
+            "open_issues": 1,
             "owner": "webauthn4j",
             "repo": "webauthn4j-spring-security",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "java",
+              "passkey",
+              "spring",
+              "spring-security",
+              "webauthn",
+              "webauthn4j-spring-security"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -560,12 +979,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Swift library for implementing the WebAuthn spec",
+            "homepage": "https://swiftpackageindex.com/brokenhandsio/swift-webauthn/main/documentation/webauthn",
             "id": 516020548,
             "language": "Swift",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-04T01:31:20Z",
+            "open_issues": 18,
             "owner": "brokenhandsio",
             "repo": "swift-webauthn",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "authentication",
+              "passkeys",
+              "swift",
+              "swift-server",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -576,12 +1006,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authentication and authorization providers for Eclipse Vert.x",
+            "homepage": "https://vertx.io/docs/vertx-auth-common/java/",
             "id": 27583882,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T15:33:06Z",
+            "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "async",
+              "jwt",
+              "oauth",
+              "oauth2",
+              "reactive",
+              "security",
+              "vertx"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -592,12 +1035,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO2-certified passkey server and SDKs",
+            "homepage": "https://hanko.io/passkey-api",
             "id": 695085089,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-12T09:40:47Z",
+            "open_issues": 10,
             "owner": "teamhanko",
             "repo": "passkeys",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "fido2",
+              "go",
+              "passkeys",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -608,12 +1061,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Go package for easy WebAuthn integration",
+            "homepage": null,
             "id": 149280919,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-11-21T19:16:29Z",
+            "open_issues": 6,
             "owner": "koesie10",
             "repo": "webauthn",
-            "stars": 168
+            "stars": 168,
+            "topics": [
+              "2fa",
+              "2factor",
+              "authentication",
+              "login",
+              "passwordless",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -624,12 +1089,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "node.js webauthn framework",
+            "homepage": null,
             "id": 176747632,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-09T00:23:26Z",
+            "open_issues": 27,
             "owner": "wallix",
             "repo": "webauthn",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -640,12 +1110,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn Relying Party server library for PHP",
+            "homepage": null,
             "id": 136748415,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-02-14T10:40:58Z",
+            "open_issues": 10,
             "owner": "madwizard-org",
             "repo": "webauthn-server",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "2fa",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "php",
+              "relying-party",
+              "two-factor-authentication",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -656,12 +1141,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦎🔑 Secure & fast Passkey (WebAuthn) library for Zig",
+            "homepage": null,
             "id": 977016552,
             "language": "Zig",
+            "license": "MIT",
             "last_commit": "2026-06-23T08:02:34Z",
+            "open_issues": 0,
             "owner": "uzyn",
             "repo": "passcay",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "authentication",
+              "fido2",
+              "fido2-conformant",
+              "fido2-webauth",
+              "passkey",
+              "relying-party",
+              "security",
+              "webauthn",
+              "zig",
+              "zig-package",
+              "ziglang"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -672,12 +1174,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror of https://git.robur.coop/robur/webauthn/",
+            "homepage": null,
             "id": 414194285,
             "language": "OCaml",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-08-20T09:24:33Z",
+            "open_issues": 5,
             "owner": "robur-coop",
             "repo": "webauthn",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -688,12 +1195,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) RP library in Ruby",
+            "homepage": null,
             "id": 146547567,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2025-12-31T06:33:50Z",
+            "open_issues": 1,
             "owner": "nov",
             "repo": "web_authn",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "fido",
+              "fido2",
+              "web-authentication",
+              "webauth",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -704,12 +1222,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add passkey auth to your app or site with a few server side HTTP handlers",
+            "homepage": "https://passkeybot.com",
             "id": 1115954673,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-23T12:26:47Z",
+            "open_issues": 0,
             "owner": "emadda",
             "repo": "passkeybot",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "passkeys"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -720,12 +1245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Standard-conformant WebAuthn relying party implementation",
+            "homepage": null,
             "id": 230697862,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-08-13T00:14:14Z",
+            "open_issues": 2,
             "owner": "e3b0c442",
             "repo": "warp",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -736,12 +1266,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Haskell implementation of the server-side verifier for Web Authentication API",
+            "homepage": null,
             "id": 179632195,
             "language": "Haskell",
+            "license": null,
             "last_commit": "2022-01-05T06:08:05Z",
+            "open_issues": 3,
             "owner": "fumieval",
             "repo": "webauthn",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -752,12 +1289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redux middleware for registering and authenticating with the Web Authentication API. ",
+            "homepage": null,
             "id": 171200339,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-07T03:25:27Z",
+            "open_issues": 34,
             "owner": "subyraman",
             "repo": "redux-webauthn",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -768,12 +1310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of webauthn components for Rustlang servers",
+            "homepage": null,
             "id": 683865038,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T06:48:47Z",
+            "open_issues": 0,
             "owner": "Firstyear",
             "repo": "webauthn-rs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -790,12 +1337,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn, Simplified. A collection of TypeScript-first libraries for simpler WebAuthn integration. Supports modern browsers, Node, Deno, and more.",
+            "homepage": "https://simplewebauthn.dev",
             "id": 266156053,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T00:52:56Z",
+            "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2317
+            "stars": 2317,
+            "topics": [
+              "browser",
+              "commonjs",
+              "deno",
+              "denoland",
+              "esm",
+              "fido",
+              "node",
+              "passkeys",
+              "typescript",
+              "umd",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -806,12 +1370,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides library functionality for FIDO2, including communication with a device over USB or NFC.",
+            "homepage": null,
             "id": 130169332,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T07:50:39Z",
+            "open_issues": 17,
             "owner": "Yubico",
             "repo": "libfido2",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "fido2",
+              "libfido2",
+              "webauthn",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -822,12 +1396,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides library functionality for FIDO 2.0, including communication with a device over USB.",
+            "homepage": "https://developers.yubico.com/python-fido2/",
             "id": 125505498,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-29T18:03:33Z",
+            "open_issues": 31,
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 542
+            "stars": 542,
+            "topics": [
+              "fido2",
+              "webauthn",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -838,12 +1421,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust library to interact with Security Keys, used by Firefox",
+            "homepage": "https://crates.io/crates/authenticator",
             "id": 86860244,
             "language": "Rust",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-17T22:15:32Z",
+            "open_issues": 54,
             "owner": "mozilla",
             "repo": "authenticator-rs",
-            "stars": 315
+            "stars": 315,
+            "topics": [
+              "hid",
+              "rust",
+              "u2f"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -854,12 +1446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yubico Mobile iOS SDK - YubiKit",
+            "homepage": null,
             "id": 191902737,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:04:24Z",
+            "open_issues": 23,
             "owner": "Yubico",
             "repo": "yubikit-ios",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -870,12 +1467,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily provide passkey authentication based on FIDO2 / WebAuthn for Flutter apps (iOS & Android) via a dedicated Flutter package",
+            "homepage": "https://www.corbado.com/passkeys/flutter",
             "id": 634856767,
             "language": "Dart",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-17T21:40:46Z",
+            "open_issues": 5,
             "owner": "corbado",
             "repo": "flutter-passkeys",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "android",
+              "dart",
+              "faceid",
+              "fido2",
+              "flutter",
+              "ios",
+              "kotlin",
+              "package",
+              "passkey",
+              "passkeys",
+              "swift",
+              "touchid",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -886,12 +1502,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yubico Mobile Android SDK - YubiKit",
+            "homepage": null,
             "id": 195424265,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T10:06:30Z",
+            "open_issues": 14,
             "owner": "Yubico",
             "repo": "yubikit-android",
-            "stars": 157
+            "stars": 157,
+            "topics": [
+              "android",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -902,12 +1526,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn iOS Library",
+            "homepage": null,
             "id": 158377828,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-05-08T16:38:48Z",
+            "open_issues": 7,
             "owner": "lyokato",
             "repo": "WebAuthnKit-iOS",
-            "stars": 114
+            "stars": 114,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -918,12 +1547,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "libfido2 bindings for golang",
+            "homepage": "https://keys.pub",
             "id": 257129124,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-21T06:16:33Z",
+            "open_issues": 8,
             "owner": "keys-pub",
             "repo": "go-libfido2",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "fido2",
+              "fido2-authenticator",
+              "golang",
+              "libfido2",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -934,12 +1574,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hardware Security SDK - open source version (GPLv3).",
+            "homepage": "https://hwsecurity.dev",
             "id": 189981341,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-22T11:00:24Z",
+            "open_issues": 5,
             "owner": "hwsecurity-sdk",
             "repo": "hwsecurity",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "android",
+              "android-library",
+              "fido",
+              "fido2",
+              "pgp"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -950,12 +1601,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native WebAuthn/Passkey support for Electron on macOS using Apple's AuthenticationServices framework",
+            "homepage": null,
             "id": 1113356614,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2025-12-11T16:27:45Z",
+            "open_issues": 0,
             "owner": "vault12",
             "repo": "electron-webauthn-mac",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "authenticationservices",
+              "electron",
+              "electron-addon",
+              "electron-builder",
+              "fido2",
+              "macos",
+              "passkey",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -966,12 +1631,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO2 roaming authenticator library for Android OS",
+            "homepage": null,
             "id": 280459845,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-07-24T13:51:05Z",
+            "open_issues": 1,
             "owner": "WIOsense",
             "repo": "rauth-android",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "android-library",
+              "android-security",
+              "authentication",
+              "ctap2",
+              "fido2",
+              "fido2-authenticator",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -982,12 +1661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of webauthn components for Rustlang servers",
+            "homepage": null,
             "id": 683865038,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T06:48:47Z",
+            "open_issues": 0,
             "owner": "Firstyear",
             "repo": "webauthn-rs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1004,12 +1688,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO Passkey for Raspberry Pico and ESP32",
+            "homepage": "https://www.picokeys.com",
             "id": 531127925,
             "language": "C",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T13:42:00Z",
+            "open_issues": 59,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1455
+            "stars": 1455,
+            "topics": [
+              "cryptography",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "firmware",
+              "raspberry-pi-pico"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1020,12 +1716,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Virtual FIDO2 USB Device",
+            "homepage": null,
             "id": 537229823,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-08-01T18:48:41Z",
+            "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1390
+            "stars": 1390,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1036,12 +1737,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Authorizer is a Password Manager for Android. It emulates an HID keyboard over USB and enters your credentials on your target device. Additionally it supports OTP :key::mobile_phone_off:",
+            "homepage": null,
             "id": 69473515,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-04-19T15:17:51Z",
+            "open_issues": 20,
             "owner": "tejado",
             "repo": "Authorizer",
-            "stars": 569
+            "stars": 569,
+            "topics": [
+              "android",
+              "auto-type",
+              "bluetooth",
+              "bluetooth-hid",
+              "encryption",
+              "gpg",
+              "gpg-encryption",
+              "hid",
+              "keyboard-emulation",
+              "otp",
+              "password-manager",
+              "password-store",
+              "security",
+              "smartphone",
+              "usb",
+              "usb-hid"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1052,12 +1775,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn a $5 Raspberry Pi RP2350 board into an open-source hardware passkey: WebAuthn/FIDO2 logins, ssh & git signing, OpenPGP, PIV, TOTP. Rust firmware, no_std.",
+            "homepage": "https://themaxmur.github.io/RS-Key/",
             "id": 1266469959,
             "language": "Rust",
-            "last_commit": "2026-08-26T20:43:29Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-28T23:32:48Z",
+            "open_issues": 9,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 439
+            "stars": 440,
+            "topics": [
+              "authenticator",
+              "ccid",
+              "cryptography",
+              "embedded-rust",
+              "fido",
+              "fido-u2f",
+              "fido2",
+              "firmware",
+              "opengpg",
+              "passkeys",
+              "pgp",
+              "piv",
+              "post-quantum-cryptography",
+              "pqc",
+              "raspberry-pi-pico",
+              "rp2350",
+              "security-key",
+              "smart-card",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1068,12 +1816,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WebAuthn/U2F token protected by a TPM (Go/Linux)",
+            "homepage": null,
             "id": 367988108,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-05-11T20:23:04Z",
+            "open_issues": 28,
             "owner": "psanford",
             "repo": "tpm-fido",
-            "stars": 384
+            "stars": 385,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1084,12 +1837,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "U2F security token emulator written in Rust",
+            "homepage": null,
             "id": 103092797,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T23:56:17Z",
+            "open_issues": 24,
             "owner": "danstiner",
             "repo": "rust-u2f",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "linux",
+              "rust",
+              "u2f"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1100,12 +1862,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use your Wear OS watch as a FIDO2 security key via Bluetooth and NFC.",
+            "homepage": "https://play.google.com/store/apps/details?id=me.henneke.wearauthn.authenticator",
             "id": 217853447,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2025-01-04T11:18:36Z",
+            "open_issues": 20,
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1116,12 +1883,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BulwarkID FIDO Passkey",
+            "homepage": null,
             "id": 539183114,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-02T18:20:12Z",
+            "open_issues": 16,
             "owner": "bulwarkid",
             "repo": "bulwark-passkey",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1132,12 +1904,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An SSH and age plugin agent which you can use with your PIV hardware security device (e.g. a Yubikey).",
+            "homepage": "https://smlx.github.io/piv-agent/",
             "id": 307038773,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T13:09:25Z",
+            "open_issues": 3,
             "owner": "smlx",
             "repo": "piv-agent",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "age",
+              "age-plugin",
+              "hacktoberfest",
+              "piv",
+              "ssh",
+              "ssh-agent",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1148,12 +1933,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python software webauthn token",
+            "homepage": null,
             "id": 194344434,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-09T19:59:22Z",
+            "open_issues": 8,
             "owner": "bodik",
             "repo": "soft-webauthn",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "authentication",
+              "fido2",
+              "python",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1164,12 +1959,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A FIDO2 WebAuthn BLE Android phone token",
+            "homepage": null,
             "id": 186877208,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-21T16:26:51Z",
+            "open_issues": 6,
             "owner": "Trojan295",
             "repo": "android-webauthn-token",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "android-webauthn",
+              "ble-webauthn",
+              "fido2",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1180,12 +1985,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn authenticator emulation in Java",
+            "homepage": null,
             "id": 539038422,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2022-11-10T09:24:39Z",
+            "open_issues": 1,
             "owner": "adessoSE",
             "repo": "softauthn",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "authenticator",
+              "fido2",
+              "java",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1196,12 +2011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An implementation of webauthn components for Rustlang servers",
+            "homepage": null,
             "id": 683865038,
             "language": null,
+            "license": "MPL-2.0",
             "last_commit": "2026-08-25T06:48:47Z",
+            "open_issues": 0,
             "owner": "Firstyear",
             "repo": "webauthn-rs",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1212,12 +2032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1144978315,
             "language": "Swift",
+            "license": null,
             "last_commit": "2026-02-03T10:34:35Z",
+            "open_issues": 1,
             "owner": "Dashlane",
             "repo": "apple-credential-provider-example",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1234,12 +2059,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.",
+            "homepage": null,
             "id": 228682115,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T08:22:13Z",
+            "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3405
+            "stars": 3406,
+            "topics": [
+              "ctap2",
+              "embedded",
+              "fido2",
+              "firmware",
+              "hardware",
+              "opensk",
+              "rust",
+              "security",
+              "security-key",
+              "tock",
+              "tock-os",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1250,12 +2094,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "U2F USB token optimized for physical security, affordability, and style",
+            "homepage": null,
             "id": 48834063,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-01T01:17:44Z",
+            "open_issues": 27,
             "owner": "conorpp",
             "repo": "u2f-zero",
-            "stars": 2450
+            "stars": 2450,
+            "topics": [
+              "hardware",
+              "security",
+              "u2f"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1266,12 +2119,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":lock: Don't use this repo, use the new monorepo instead:",
+            "homepage": "https://github.com/trezor/trezor-firmware",
             "id": 46493241,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-19T14:21:30Z",
+            "open_issues": 0,
             "owner": "trezor",
             "repo": "trezor-core",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "bitcoin",
+              "micropython",
+              "trezor"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1282,12 +2144,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FIDO2 Javacard Applet",
+            "homepage": null,
             "id": 520876159,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:47:58Z",
+            "open_issues": 0,
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1298,12 +2165,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-focused Java Card U2F Authenticator based on ledger-u2f-javacard",
+            "homepage": null,
             "id": 246661482,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-29T17:45:29Z",
+            "open_issues": 1,
             "owner": "darconeous",
             "repo": "u2f-javacard",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1320,12 +2192,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of helper tools for testing WebAuthn authentication flows",
+            "homepage": null,
             "id": 513854156,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-23T14:50:24Z",
+            "open_issues": 3,
             "owner": "descope",
             "repo": "virtualwebauthn",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "authentication",
+              "automation",
+              "biometric",
+              "descope",
+              "fido",
+              "fido2",
+              "golang",
+              "passkeys",
+              "test-automation",
+              "testing-tools",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1336,12 +2225,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "YAFU - Yet Another FIDO Utility. FIDO2 toolbox in Java for USB/NFC devices.",
+            "homepage": "https://yafu.ee",
             "id": 460448004,
             "language": "Java",
+            "license": "AGPL-3.0",
             "last_commit": "2026-06-29T14:02:50Z",
+            "open_issues": 10,
             "owner": "martinpaljak",
             "repo": "YAFU",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "ctap2",
+              "fido2",
+              "fido2-authenticator",
+              "hid",
+              "java",
+              "nfc",
+              "u2f",
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1352,12 +2255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple website for previewing WebAuthn attestations and assertions",
+            "homepage": "https://debugger.simplewebauthn.dev",
             "id": 292486097,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-09-30T21:50:55Z",
+            "open_issues": 0,
             "owner": "MasterKale",
             "repo": "webauthn-previewer",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1368,12 +2276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "POSTMAN collections and assets that show how a FIDO2 client may build FIDO2 message formats for attestations and assertions",
+            "homepage": null,
             "id": 335820620,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-27T01:20:28Z",
+            "open_issues": 0,
             "owner": "sbweeden",
             "repo": "fido2-postman-clients",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1384,12 +2297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension for recording and analyzing WebAuthn API (navigator.credentials) calls.",
+            "homepage": "https://chromewebstore.google.com/detail/webauthnrecorder/cplkacfdcbomhhenmohgdjlnlcggphed?hl=ja",
             "id": 1019058480,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-29T15:34:05Z",
+            "open_issues": 0,
             "owner": "inabajunmr",
             "repo": "WebAuthnRecorder",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1400,12 +2318,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Validates .well-known/webauthn and Passkey ROR checks as implemented by chromium as a reference",
+            "homepage": null,
             "id": 993297482,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-11T16:48:47Z",
+            "open_issues": 0,
             "owner": "developmeh",
             "repo": "passkey-origin-validator",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "cli",
+              "passkeys",
+              "related-origin-requests",
+              "webauthn",
+              "well-known-uri"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1422,12 +2351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How To FIDO",
+            "homepage": "https://fido-alliance.github.io/how-to-fido/HowToFIDO.html",
             "id": 273092892,
             "language": null,
+            "license": null,
             "last_commit": "2022-10-20T17:20:25Z",
+            "open_issues": 34,
             "owner": "fido-alliance",
             "repo": "how-to-fido",
-            "stars": 53
+            "stars": 53,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1438,12 +2372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yubico WebAuthn Starter Kit Project Code",
+            "homepage": null,
             "id": 318676509,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T21:43:30Z",
+            "open_issues": 2,
             "owner": "YubicoLabs",
             "repo": "WebAuthnKit",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1454,12 +2393,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAuthn passwordless authentication with resident credentials",
+            "homepage": null,
             "id": 190651671,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T22:21:55Z",
+            "open_issues": 5,
             "owner": "YubicoLabs",
             "repo": "java-webauthn-passwordless-workshop",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1476,12 +2420,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Authentication: An API for accessing Public Key Credentials",
+            "homepage": "https://w3c.github.io/webauthn/",
             "id": 51303856,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T08:23:07Z",
+            "open_issues": 110,
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1436
+            "stars": 1436,
+            "topics": [
+              "webauthn"
+            ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1492,12 +2443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ssh, sftp client running in the browser powered by golang and wasm",
+            "homepage": null,
             "id": 335071000,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-23T17:27:14Z",
+            "open_issues": 3,
             "owner": "hullarb",
             "repo": "ssheasy",
-            "stars": 412
+            "stars": 412,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1508,12 +2464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The graphics for the WebAuthn logos",
+            "homepage": null,
             "id": 127553122,
             "language": null,
+            "license": null,
             "last_commit": "2020-11-30T14:42:09Z",
+            "open_issues": 0,
             "owner": "webauthn-open-source",
             "repo": "webauthn-logos",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         },
@@ -1524,12 +2485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 370140923,
             "language": null,
+            "license": null,
             "last_commit": "2022-02-01T20:26:36Z",
+            "open_issues": 0,
             "owner": "WebauthnWorks",
             "repo": "CTAP2.1-Migration-Guide",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
         }
@@ -1538,15 +2504,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:39:36.882Z",
+    "last_updated": "2026-08-29T04:26:09.002Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
+      "homepage": "https://bit.ly/AwesomeWebAuthn",
       "id": 164412657,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-10T04:45:10Z",
+      "open_issues": 4,
       "owner": "yackermann",
       "repo": "awesome-webauthn",
-      "stars": 1839
+      "stars": 1839,
+      "topics": [
+        "authentication",
+        "awesome",
+        "awesome-list",
+        "fido2",
+        "passkey",
+        "passkeys",
+        "passkeys-demo",
+        "webauthn"
+      ]
     },
     "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
     "enhanced_repository": "enhansome/enhansome-webauthn",
