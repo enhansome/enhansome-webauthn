@@ -15,8 +15,8 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T00:52:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-30T00:54:27Z",
+            "open_issues": 12,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2317,
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 272,
+            "stars": 271,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -445,8 +445,8 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T00:52:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-30T00:54:27Z",
+            "open_issues": 12,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2317,
@@ -512,7 +512,7 @@
             "open_issues": 10,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1321,
+            "stars": 1322,
             "topics": [
               "ctap2",
               "fido2",
@@ -570,7 +570,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-07-29T16:53:49Z",
-            "open_issues": 8,
+            "open_issues": 12,
             "owner": "cedarcode",
             "repo": "webauthn-ruby",
             "stars": 771,
@@ -635,7 +635,7 @@
             "open_issues": 1,
             "owner": "passwordless-id",
             "repo": "webauthn",
-            "stars": 610,
+            "stars": 611,
             "topics": [
               "authentication",
               "passkeys",
@@ -661,7 +661,7 @@
             "open_issues": 48,
             "owner": "lbuchs",
             "repo": "WebAuthn",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "2fa",
               "apple-authenticator",
@@ -697,7 +697,7 @@
             "open_issues": 17,
             "owner": "webauthn4j",
             "repo": "webauthn4j",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "authentication",
               "fido",
@@ -899,7 +899,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 272,
+            "stars": 271,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -1342,8 +1342,8 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T00:52:56Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-30T00:54:27Z",
+            "open_issues": 12,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2317,
@@ -1455,7 +1455,7 @@
             "open_issues": 23,
             "owner": "Yubico",
             "repo": "yubikit-ios",
-            "stars": 234,
+            "stars": 235,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1697,7 +1697,7 @@
             "open_issues": 59,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1455,
+            "stars": 1458,
             "topics": [
               "cryptography",
               "fido",
@@ -1780,11 +1780,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T23:32:48Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-29T17:51:41Z",
+            "open_issues": 10,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 441,
+            "stars": 444,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3407,
+            "stars": 3411,
             "topics": [
               "ctap2",
               "embedded",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T10:25:21.063Z",
+    "last_updated": "2026-08-30T09:27:47.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
@@ -2516,7 +2516,7 @@
       "open_issues": 4,
       "owner": "yackermann",
       "repo": "awesome-webauthn",
-      "stars": 1839,
+      "stars": 1840,
       "topics": [
         "authentication",
         "awesome",
