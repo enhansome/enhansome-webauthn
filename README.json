@@ -15,7 +15,7 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T05:47:30Z",
+            "last_commit": "2026-09-03T01:18:35Z",
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
@@ -445,7 +445,7 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T05:47:30Z",
+            "last_commit": "2026-09-03T01:18:35Z",
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
@@ -512,7 +512,7 @@
             "open_issues": 10,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1325,
+            "stars": 1326,
             "topics": [
               "ctap2",
               "fido2",
@@ -611,7 +611,7 @@
             "open_issues": 33,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 703,
+            "stars": 704,
             "topics": [
               "security",
               "webauthn"
@@ -693,7 +693,7 @@
             "id": 134147639,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-02T08:02:54Z",
+            "last_commit": "2026-09-02T13:43:25Z",
             "open_issues": 16,
             "owner": "webauthn4j",
             "repo": "webauthn4j",
@@ -1011,7 +1011,7 @@
             "id": 27583882,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T08:13:15Z",
+            "last_commit": "2026-09-02T15:01:04Z",
             "open_issues": 48,
             "owner": "eclipse-vertx",
             "repo": "vertx-auth",
@@ -1150,7 +1150,7 @@
             "open_issues": 0,
             "owner": "uzyn",
             "repo": "passcay",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "authentication",
               "fido2",
@@ -1342,7 +1342,7 @@
             "id": 266156053,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-02T05:47:30Z",
+            "last_commit": "2026-09-03T01:18:35Z",
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
@@ -1507,8 +1507,8 @@
             "id": 195424265,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T15:54:56Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-02T15:01:28Z",
+            "open_issues": 16,
             "owner": "Yubico",
             "repo": "yubikit-android",
             "stars": 157,
@@ -1697,7 +1697,7 @@
             "open_issues": 59,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1465,
+            "stars": 1469,
             "topics": [
               "cryptography",
               "fido",
@@ -1725,7 +1725,7 @@
             "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1393,
+            "stars": 1396,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1780,11 +1780,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T16:38:21Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-02T16:23:51Z",
+            "open_issues": 9,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 454,
+            "stars": 457,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3416,
+            "stars": 3417,
             "topics": [
               "ctap2",
               "embedded",
@@ -2425,11 +2425,11 @@
             "id": 51303856,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T21:19:04Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-02T17:58:16Z",
+            "open_issues": 111,
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1438,
+            "stars": 1439,
             "topics": [
               "webauthn"
             ]
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:07:54.280Z",
+    "last_updated": "2026-09-03T08:17:04.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
