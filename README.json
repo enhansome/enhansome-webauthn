@@ -52,7 +52,7 @@
             "open_issues": 35,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -482,7 +482,7 @@
             "open_issues": 35,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1449,
+            "stars": 1450,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -988,7 +988,7 @@
             "open_issues": 18,
             "owner": "brokenhandsio",
             "repo": "swift-webauthn",
-            "stars": 177,
+            "stars": 178,
             "topics": [
               "authentication",
               "passkeys",
@@ -1583,7 +1583,7 @@
             "open_issues": 5,
             "owner": "hwsecurity-sdk",
             "repo": "hwsecurity",
-            "stars": 79,
+            "stars": 80,
             "topics": [
               "android",
               "android-library",
@@ -1693,11 +1693,11 @@
             "id": 531127925,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T06:38:20Z",
+            "last_commit": "2026-09-06T06:48:48Z",
             "open_issues": 59,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1475,
+            "stars": 1477,
             "topics": [
               "cryptography",
               "fido",
@@ -1784,7 +1784,7 @@
             "open_issues": 10,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 462,
+            "stars": 464,
             "topics": [
               "authenticator",
               "ccid",
@@ -1825,7 +1825,7 @@
             "open_issues": 28,
             "owner": "psanford",
             "repo": "tpm-fido",
-            "stars": 386,
+            "stars": 387,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T07:51:32.455Z",
+    "last_updated": "2026-09-06T08:06:50.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
@@ -2513,7 +2513,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-10T04:45:10Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "yackermann",
       "repo": "awesome-webauthn",
       "stars": 1841,
