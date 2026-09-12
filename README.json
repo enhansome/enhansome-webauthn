@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2340,
+            "stars": 2341,
             "topics": [
               "browser",
               "commonjs",
@@ -48,8 +48,8 @@
             "id": 135551045,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-04-20T15:45:25Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-12T00:09:53Z",
+            "open_issues": 36,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
             "stars": 1451,
@@ -449,7 +449,7 @@
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2340,
+            "stars": 2341,
             "topics": [
               "browser",
               "commonjs",
@@ -478,8 +478,8 @@
             "id": 135551045,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-04-20T15:45:25Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-12T00:09:53Z",
+            "open_issues": 36,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
             "stars": 1451,
@@ -1346,7 +1346,7 @@
             "open_issues": 4,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2340,
+            "stars": 2341,
             "topics": [
               "browser",
               "commonjs",
@@ -1472,8 +1472,8 @@
             "id": 634856767,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-11T08:01:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-11T19:28:37Z",
+            "open_issues": 8,
             "owner": "corbado",
             "repo": "flutter-passkeys",
             "stars": 186,
@@ -1697,7 +1697,7 @@
             "open_issues": 62,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1485,
+            "stars": 1488,
             "topics": [
               "cryptography",
               "fido",
@@ -1725,7 +1725,7 @@
             "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1396,
+            "stars": 1397,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 12,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 477,
+            "stars": 479,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3422,
+            "stars": 3423,
             "topics": [
               "ctap2",
               "embedded",
@@ -2103,7 +2103,7 @@
             "open_issues": 27,
             "owner": "conorpp",
             "repo": "u2f-zero",
-            "stars": 2450,
+            "stars": 2451,
             "topics": [
               "hardware",
               "security",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T08:18:02.736Z",
+    "last_updated": "2026-09-12T08:07:45.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
