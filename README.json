@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2348,
+            "stars": 2350,
             "topics": [
               "browser",
               "commonjs",
@@ -48,7 +48,7 @@
             "id": 135551045,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:40:00Z",
+            "last_commit": "2026-09-20T19:11:01Z",
             "open_issues": 20,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
@@ -449,7 +449,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2348,
+            "stars": 2350,
             "topics": [
               "browser",
               "commonjs",
@@ -478,7 +478,7 @@
             "id": 135551045,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T20:40:00Z",
+            "last_commit": "2026-09-20T19:11:01Z",
             "open_issues": 20,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
@@ -509,10 +509,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-19T12:32:59Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1336,
+            "stars": 1337,
             "topics": [
               "ctap2",
               "fido2",
@@ -607,8 +607,8 @@
             "id": 180746955,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-19T01:29:33Z",
-            "open_issues": 34,
+            "last_commit": "2026-09-21T02:46:02Z",
+            "open_issues": 35,
             "owner": "kanidm",
             "repo": "webauthn-rs",
             "stars": 709,
@@ -753,11 +753,11 @@
             "id": 132609722,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T16:44:32Z",
-            "open_issues": 23,
+            "last_commit": "2026-09-21T08:50:33Z",
+            "open_issues": 21,
             "owner": "Yubico",
             "repo": "java-webauthn-server",
-            "stars": 564,
+            "stars": 563,
             "topics": [
               "authentication",
               "fido",
@@ -1346,7 +1346,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2348,
+            "stars": 2350,
             "topics": [
               "browser",
               "commonjs",
@@ -1379,7 +1379,7 @@
             "open_issues": 19,
             "owner": "Yubico",
             "repo": "libfido2",
-            "stars": 735,
+            "stars": 736,
             "topics": [
               "fido2",
               "libfido2",
@@ -1697,7 +1697,7 @@
             "open_issues": 62,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1509,
+            "stars": 1514,
             "topics": [
               "cryptography",
               "fido",
@@ -1725,7 +1725,7 @@
             "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1401,
+            "stars": 1402,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 11,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 505,
+            "stars": 507,
             "topics": [
               "authenticator",
               "ccid",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T08:48:38.535Z",
+    "last_updated": "2026-09-21T09:17:16.995Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
@@ -2516,7 +2516,7 @@
       "open_issues": 4,
       "owner": "yackermann",
       "repo": "awesome-webauthn",
-      "stars": 1847,
+      "stars": 1849,
       "topics": [
         "authentication",
         "awesome",
