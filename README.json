@@ -19,7 +19,7 @@
             "open_issues": 6,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "browser",
               "commonjs",
@@ -106,8 +106,8 @@
             "id": 93883421,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-06-17T12:52:00Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-04T08:59:06Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "webauthndemo",
             "stars": 634,
@@ -449,7 +449,7 @@
             "open_issues": 6,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "browser",
               "commonjs",
@@ -611,7 +611,7 @@
             "open_issues": 34,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 709,
+            "stars": 710,
             "topics": [
               "security",
               "webauthn"
@@ -785,7 +785,7 @@
             "open_issues": 32,
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "fido2",
               "webauthn",
@@ -845,8 +845,8 @@
             "id": 81275777,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T08:56:02Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-03T16:22:54Z",
+            "open_issues": 5,
             "owner": "webauthn-open-source",
             "repo": "fido2-lib",
             "stars": 445,
@@ -1346,7 +1346,7 @@
             "open_issues": 6,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2362,
+            "stars": 2363,
             "topics": [
               "browser",
               "commonjs",
@@ -1376,7 +1376,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-09-23T07:42:48Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "Yubico",
             "repo": "libfido2",
             "stars": 738,
@@ -1405,7 +1405,7 @@
             "open_issues": 32,
             "owner": "Yubico",
             "repo": "python-fido2",
-            "stars": 547,
+            "stars": 546,
             "topics": [
               "fido2",
               "webauthn",
@@ -1697,7 +1697,7 @@
             "open_issues": 62,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1549,
+            "stars": 1553,
             "topics": [
               "cryptography",
               "fido",
@@ -1725,7 +1725,7 @@
             "open_issues": 36,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1410,
+            "stars": 1411,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1784,7 +1784,7 @@
             "open_issues": 18,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 558,
+            "stars": 560,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3440,
+            "stars": 3441,
             "topics": [
               "ctap2",
               "embedded",
@@ -2103,7 +2103,7 @@
             "open_issues": 27,
             "owner": "conorpp",
             "repo": "u2f-zero",
-            "stars": 2454,
+            "stars": 2453,
             "topics": [
               "hardware",
               "security",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T09:25:29.584Z",
+    "last_updated": "2026-10-04T10:04:52.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
