@@ -611,7 +611,7 @@
             "open_issues": 33,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 710,
+            "stars": 713,
             "topics": [
               "security",
               "webauthn"
@@ -933,7 +933,7 @@
             "open_issues": 9,
             "owner": "tanguilp",
             "repo": "wax",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "fido2",
               "webauthn"
@@ -1379,7 +1379,7 @@
             "open_issues": 23,
             "owner": "Yubico",
             "repo": "libfido2",
-            "stars": 738,
+            "stars": 739,
             "topics": [
               "fido2",
               "libfido2",
@@ -1697,7 +1697,7 @@
             "open_issues": 63,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1572,
+            "stars": 1573,
             "topics": [
               "cryptography",
               "fido",
@@ -1746,7 +1746,7 @@
             "open_issues": 19,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 583,
+            "stars": 584,
             "topics": [
               "authenticator",
               "ccid",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3446,
+            "stars": 3449,
             "topics": [
               "ctap2",
               "embedded",
@@ -2153,7 +2153,7 @@
             "open_issues": 3,
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T10:07:17.134Z",
+    "last_updated": "2026-10-11T10:18:40.972Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
