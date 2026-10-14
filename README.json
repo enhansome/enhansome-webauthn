@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-11T16:59:45Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2365,
@@ -79,7 +79,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-08-06T18:47:00Z",
-            "open_issues": 4,
+            "open_issues": 3,
             "owner": "duo-labs",
             "repo": "webauthn.io",
             "stars": 746,
@@ -179,7 +179,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -209,8 +209,8 @@
             "id": 102907721,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2020-07-01T22:57:35Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-13T16:35:53Z",
+            "open_issues": 6,
             "owner": "jcjones",
             "repo": "webauthn.bin.coffee",
             "stars": 97,
@@ -446,7 +446,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-11T16:59:45Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2365,
@@ -508,7 +508,7 @@
             "id": 438441323,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T05:59:59Z",
+            "last_commit": "2026-10-13T14:59:49Z",
             "open_issues": 14,
             "owner": "go-webauthn",
             "repo": "webauthn",
@@ -540,10 +540,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-08T23:22:17Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1069,
+            "stars": 1070,
             "topics": [
               "duo",
               "fido2",
@@ -611,7 +611,7 @@
             "open_issues": 33,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 713,
+            "stars": 714,
             "topics": [
               "security",
               "webauthn"
@@ -697,7 +697,7 @@
             "open_issues": 15,
             "owner": "webauthn4j",
             "repo": "webauthn4j",
-            "stars": 596,
+            "stars": 595,
             "topics": [
               "authentication",
               "fido",
@@ -753,8 +753,8 @@
             "id": 132609722,
             "language": "Scala",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T12:45:37Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-13T14:17:45Z",
+            "open_issues": 26,
             "owner": "Yubico",
             "repo": "java-webauthn-server",
             "stars": 564,
@@ -899,7 +899,7 @@
             "open_issues": 1,
             "owner": "dodobrands",
             "repo": "WebAuthn.Net",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "asp-net",
               "asp-net-core",
@@ -957,7 +957,7 @@
             "open_issues": 1,
             "owner": "webauthn4j",
             "repo": "webauthn4j-spring-security",
-            "stars": 223,
+            "stars": 222,
             "topics": [
               "fido",
               "fido-u2f",
@@ -1150,7 +1150,7 @@
             "open_issues": 1,
             "owner": "uzyn",
             "repo": "passcay",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "authentication",
               "fido2",
@@ -1343,7 +1343,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-11T16:59:45Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
             "stars": 2365,
@@ -1583,7 +1583,7 @@
             "open_issues": 5,
             "owner": "hwsecurity-sdk",
             "repo": "hwsecurity",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "android",
               "android-library",
@@ -1697,7 +1697,7 @@
             "open_issues": 63,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1578,
+            "stars": 1582,
             "topics": [
               "cryptography",
               "fido",
@@ -1746,7 +1746,7 @@
             "open_issues": 19,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 590,
+            "stars": 592,
             "topics": [
               "authenticator",
               "ccid",
@@ -2065,7 +2065,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T08:07:33Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "google",
             "repo": "OpenSK",
             "stars": 3451,
@@ -2429,7 +2429,7 @@
             "open_issues": 104,
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1475,
+            "stars": 1477,
             "topics": [
               "webauthn"
             ]
@@ -2452,7 +2452,7 @@
             "open_issues": 3,
             "owner": "hullarb",
             "repo": "ssheasy",
-            "stars": 417,
+            "stars": 418,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:04:56.720Z",
+    "last_updated": "2026-10-14T09:01:04.606Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
