@@ -29,10 +29,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 * [MasterKale: SimpleWebAuthn Demo](https://example.simplewebauthn.dev) - A working instance of the [SimpleWebAuthn example project](https://github.com/MasterKale/SimpleWebAuthn/tree/master/example) ⭐ 2,371 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-11 showcasing both its server and browser libraries.
 * [Anders Åberg: .NET library for FIDO2 Demo](https://github.com/abergs/fido2-net-lib) ⭐ 1,455 | 🐛 9 | 🌐 C# | 📅 2026-10-16 - A working implementation library + demo for FIDO2 and WebAuthn using .NET <https://fido2-net-lib.passwordless.dev/>.
 * [DUO: WebAuthn Demo](https://github.com/duo-labs/webauthn.io) ⭐ 746 | 🐛 3 | 🌐 Python | 📅 2026-08-06 - A demonstration of the WebAuthn Specification <https://webauthn.io/>.
-* [Google: WebAuthn Demo](https://github.com/google/webauthndemo) ⭐ 634 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13 - An example Java Relying Party implementation of the WebAuthn specification <https://webauthndemo.appspot.com>.
+* [Google: WebAuthn Demo](https://github.com/google/webauthndemo) ⭐ 635 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-13 - An example Java Relying Party implementation of the WebAuthn specification <https://webauthndemo.appspot.com>.
 * [Spomky-Labs: Webauthn Demo](http://webauthn.spomky-labs.com) - a demo based on Symfony and the PHP framework [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) ⭐ 521 | 🐛 7 | 🌐 PHP | 📅 2026-10-01.
 * [WebAuthn.Net Demo](https://webauthn.dodo.dev) - Demonstration of usage scenarios with [WebAuthn.Net](https://github.com/dodobrands/WebAuthn.Net) ⭐ 273 | 🐛 1 | 🌐 C# | 📅 2026-10-18 and ASP.NET Core.
-* [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) ⭐ 97 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-16 - A simple site for testing Web Authentication <https://webauthn.bin.coffee/>.
+* [jcjones: WebAuthn.bin.coffee DEMO](https://github.com/jcjones/webauthn.bin.coffee) ⭐ 97 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-16 - A simple site for testing Web Authentication <https://webauthn.bin.coffee/>.
 * [Dashlane: Android passkey example app](https://github.com/Dashlane/android-passkey-example) ⭐ 87 | 🐛 1 | 🌐 Kotlin | 📅 2024-01-24 - An example Android application that demonstrates native passkey support.
 * [Shane Weeden: FIDO2 Viewer](https://github.com/sbweeden/fido2viewer) ⭐ 51 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-22 - This is a free, simple, standalone-in-the-browser viewer for FIDO2 attestation and assertion payload inspection.
 * [Yuriy Ackermann: FIDO2 Demos](https://github.com/WebauthnWorks/PasskeysSamples) ⭐ 48 | 🐛 0 | 🌐 HTML | 📅 2025-11-19 - A set of demos for ["Introduction to WebAuthn API"](https://medium.com/@yackermann/introduction-to-webauthn-api-5fd1fb46c285#).
@@ -55,8 +55,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 * `FIDO CONFORMANT` [MasterKale: @simplewebauthn/server](https://github.com/MasterKale/SimpleWebAuthn) ⭐ 2,371 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-11 - WebAuthn, Simplified. A TypeScript-first Node.js library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the front end **@simplewebauthn/browser** (see [Client Libs](#client-libs)).
 * `FIDO CONFORMANT` [Anders Åberg: .NET library for FIDO2](https://github.com/abergs/fido2-net-lib) ⭐ 1,455 | 🐛 9 | 🌐 C# | 📅 2026-10-16 - A working implementation library + demo for fido2 and WebAuthn using .NET.
-* `FIDO CONFORMANT` [WebAuthn Go library](https://github.com/go-webauthn/webauthn) ⭐ 1,349 | 🐛 13 | 🌐 Go | 📅 2026-10-16 - WebAuthn library written in Go (replaces the archived and deprecated [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) ⚠️ Archived).
-* [Duo: py\_webauthn](https://github.com/duo-labs/py_webauthn) ⭐ 1,071 | 🐛 3 | 🌐 Python | 📅 2026-10-08 - Pythonic WebAuthn. A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn.
+* `FIDO CONFORMANT` [WebAuthn Go library](https://github.com/go-webauthn/webauthn) ⭐ 1,351 | 🐛 13 | 🌐 Go | 📅 2026-10-16 - WebAuthn library written in Go (replaces the archived and deprecated [DUO: WebAuthn Go library](https://github.com/duo-labs/webauthn) ⚠️ Archived).
+* [Duo: py\_webauthn](https://github.com/duo-labs/py_webauthn) ⭐ 1,072 | 🐛 3 | 🌐 Python | 📅 2026-10-08 - Pythonic WebAuthn. A Python3 implementation of the WebAuthn API focused on making it easy to leverage the power of WebAuthn.
 * `FIDO CONFORMANT` [cedarcode: WebAuthn Ruby](https://github.com/cedarcode/webauthn-ruby) ⭐ 777 | 🐛 12 | 🌐 Ruby | 📅 2026-09-03 - Ruby implementation of a WebAuthn Relying Party.
 * [kanidm: webauthn-rs](https://github.com/kanidm/webauthn-rs) ⭐ 714 | 🐛 33 | 🌐 Rust | 📅 2026-10-12 - An implementation of webauthn components for Rustlang servers.
 * [Passwordless.ID: WebAuthn lib](https://github.com/passwordless-id/webauthn) ⭐ 612 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-06 - A simple, minimal, opinionated typescript wrapper around WebAuthn. Features both client side to invoke WebAuthn and server side to verify credentials.
@@ -89,12 +89,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Client Libraries
 
 * [MasterKale: @simplewebauthn/browser](https://github.com/MasterKale/SimpleWebAuthn/tree/master/packages/browser) ⭐ 2,371 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-11 - WebAuthn, Simplified. A TypeScript-first browser library for simpler WebAuthn integration. Supports use in TypeScript and JavaScript projects. Partner library to the back end **@simplewebauthn/server** (see [Server Libs](#server-libs)). Also works with Duo's py\_webauthn.
-* [Yubico: libfido2](https://github.com/Yubico/libfido2) ⭐ 739 | 🐛 25 | 🌐 C | 📅 2026-10-12 - C client library and command-line tools to communicate with a FIDO device over USB, and to verify attestation and assertion signatures.
+* [Yubico: libfido2](https://github.com/Yubico/libfido2) ⭐ 739 | 🐛 26 | 🌐 C | 📅 2026-10-19 - C client library and command-line tools to communicate with a FIDO device over USB, and to verify attestation and assertion signatures.
 * [Yubico: python-fido2](https://github.com/Yubico/python-fido2) ⭐ 547 | 🐛 31 | 🌐 Python | 📅 2026-10-14 - Client Lib to talk to a hardware authenticators over USB HID.
 * [Mozilla: authenticator-rs](https://github.com/mozilla/authenticator-rs/) ⭐ 316 | 🐛 48 | 🌐 Rust | 📅 2026-10-15 - Rust library to interact with Security Keys, used by Firefox.
 * [Yubico: Mobile iOS SDK (YubiKit)](https://github.com/Yubico/yubikit-ios) ⭐ 235 | 🐛 23 | 🌐 Objective-C | 📅 2026-10-01 - YubiKit is an iOS library provided by Yubico to interact with YubiKeys on iOS devices. Works with other FIDO2 devices as well.
 * [Corbado: flutter-passkeys](https://github.com/corbado/flutter-passkeys/) ⭐ 188 | 🐛 8 | 🌐 Dart | 📅 2026-09-17 - Flutter package to provide passkey authentication for iOS and Android apps.
-* [Yubico: Mobile Android SDK (YubiKit)](https://github.com/Yubico/yubikit-android) ⭐ 160 | 🐛 19 | 🌐 Java | 📅 2026-10-15 - YubiKit is an Android library provided by Yubico to interact with YubiKeys on Android devices. Works with other FIDO2 devices as well.
+* [Yubico: Mobile Android SDK (YubiKit)](https://github.com/Yubico/yubikit-android) ⭐ 160 | 🐛 20 | 🌐 Java | 📅 2026-10-19 - YubiKit is an Android library provided by Yubico to interact with YubiKeys on Android devices. Works with other FIDO2 devices as well.
 * [Lyo Kato: iOS Webauthn Kit](https://github.com/lyokato/WebAuthnKit) ⭐ 114 | 🐛 7 | 🌐 Swift | 📅 2022-05-08 - This library provides you a way to handle W3C Web Authentication API (a.k.a. WebAuthN / FIDO 2.0) easily.
 * [keys.pub: go-libfido2](https://github.com/keys-pub/go-libfido2) ⭐ 88 | 🐛 8 | 🌐 C | 📅 2025-10-21 - Go client library (wraps Yubico: libfido2).
 * [COTECH: Hardware Security SDK](https://github.com/cotechde/hwsecurity) ⭐ 81 | 🐛 5 | 🌐 Java | 📅 2025-08-22 - Android library to interact with FIDO2 and U2F security keys over NFC and USB. Also provides a WebAuthn-WebView bridge.
@@ -104,15 +104,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Software Authenticators
 
-* [Pol Henarejos: pico-fido](https://github.com/polhenarejos/pico-fido) ⭐ 1,602 | 🐛 62 | 🌐 C | 📅 2026-09-30 - This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication
-* [bulwarkid: virtual-fido](https://github.com/bulwarkid/virtual-fido) ⭐ 1,417 | 🐛 36 | 🌐 C | 📅 2024-08-01 - virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.
+* [Pol Henarejos: pico-fido](https://github.com/polhenarejos/pico-fido) ⭐ 1,604 | 🐛 62 | 🌐 C | 📅 2026-10-19 - This project transforms your Raspberry Pi Pico into an integrated FIDO Passkey, functioning like a standard USB Passkey for authentication
+* [bulwarkid: virtual-fido](https://github.com/bulwarkid/virtual-fido) ⭐ 1,418 | 🐛 37 | 🌐 C | 📅 2024-08-01 - virtual-fido is an Golang based commandline application which emulates an USB security token. This can also be used as a library.
 * `FIDO CONFORMANT` [TheMaxMur: RS-Key](https://github.com/TheMaxMur/RS-Key) ⭐ 611 | 🐛 19 | 🌐 Rust | 📅 2026-10-17 - FIDO2/WebAuthn and U2F security-key firmware for the RP2350, written in Rust with reproducible builds; also implements OpenPGP, PIV and OATH.
 * [tjado mäcke: Authorizer](https://github.com/tejado/Authorizer) ⭐ 572 | 🐛 20 | 🌐 Java | 📅 2024-04-19 - An Android password manager based on psafe3 files which supports FIDO2 WebAuthn over BLE.
 * [Peter Sanford: TPM FIDO](https://github.com/psanford/tpm-fido) ⭐ 390 | 🐛 28 | 🌐 Go | 📅 2024-05-11 - tpm-fido is FIDO token implementation for Linux that protects the token keys by using your system's TPM.
 * [Daniel Stiner: Rust U2F](https://github.com/danstiner/rust-u2f) ⭐ 303 | 🐛 23 | 🌐 Rust | 📅 2026-08-21 - U2F security token emulator written in Rust.
-* [Fabian Henneke: WearAuthn](https://github.com/FabianHenneke/WearAuthn) ⭐ 275 | 🐛 20 | 🌐 Kotlin | 📅 2025-01-04 - FIDO2 Bluetooth HID/NFC soft token for Wear OS watches with support for resident keys.
+* [Fabian Henneke: WearAuthn](https://github.com/FabianHenneke/WearAuthn) ⭐ 276 | 🐛 20 | 🌐 Kotlin | 📅 2025-01-04 - FIDO2 Bluetooth HID/NFC soft token for Wear OS watches with support for resident keys.
 * [bulwarkid: bulwark-passkeys](https://github.com/bulwarkid/bulwark-passkey) ⭐ 130 | 🐛 16 | 🌐 TypeScript | 📅 2024-02-02 - Bulwark passkeys is a desktop application written in Golang supporting CTAP2, similar to a platform-based authenticator.
-* [Scott Leggett: PIV Agent](https://github.com/smlx/piv-agent) ⭐ 108 | 🐛 3 | 🌐 Go | 📅 2026-10-01 - An SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey).
+* [Scott Leggett: PIV Agent](https://github.com/smlx/piv-agent) ⭐ 109 | 🐛 3 | 🌐 Go | 📅 2026-10-01 - An SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey).
 * [Radoslav Bodó: soft-webauthn](https://github.com/bodik/soft-webauthn) ⭐ 54 | 🐛 8 | 🌐 Python | 📅 2023-06-09 - Python software webauthn token.
 * [Damian Czaja: android-webauthn-token](https://github.com/Trojan295/android-webauthn-token) ⭐ 52 | 🐛 6 | 🌐 Kotlin | 📅 2019-06-21 - A FIDO2 WebAuthn BLE Android phone token.
 * [adessoSE: softauthn](https://github.com/adessoSE/softauthn) ⭐ 11 | 🐛 1 | 🌐 Java | 📅 2022-11-10 - FIDO2 authenticator emulator/software token in Java.
@@ -121,7 +121,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Hardware Authenticators
 
-* [Google: OpenSK](https://github.com/google/OpenSK) ⭐ 3,454 | 🐛 16 | 🌐 Rust | 📅 2026-10-15 - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+* [Google: OpenSK](https://github.com/google/OpenSK) ⭐ 3,455 | 🐛 16 | 🌐 Rust | 📅 2026-10-15 - OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
 * `FIDO CONFORMANT` [Conor Patrick: U2F Zero](https://github.com/conorpp/u2f-zero) ⭐ 2,451 | 🐛 27 | 🌐 C | 📅 2022-09-01 - U2F Zero is an open source U2F token for 2 factor authentication.
 * [Trezor](https://github.com/trezor/trezor-core/tree/master/src/apps/webauthn) ⚠️ Archived - Trezor is an open source hardware wallet with FIDO/U2F and FIDO2/WebAuthn functionality.
 * [BryanJacobs: FIDO2Applet](https://github.com/BryanJacobs/FIDO2Applet) ⭐ 166 | 🐛 1 | 🌐 Java | 📅 2026-10-18 - FIDO2 CTAP2 Javacard Applet.
@@ -131,7 +131,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Dev tools
 
-* [Descope: VirtualWebAuthn Test Tool](https://github.com/descope/virtualwebauthn) ⭐ 130 | 🐛 3 | 🌐 Go | 📅 2026-06-23 - A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.
+* [Descope: VirtualWebAuthn Test Tool](https://github.com/descope/virtualwebauthn) ⭐ 131 | 🐛 3 | 🌐 Go | 📅 2026-06-23 - A GO package to automate testing of a relying party WebAuthn server implementation without requiring a browser or an actual authenticator.
 * [Martin Paljak: YAFU - Yet Another FIDO Utility](https://github.com/martinpaljak/YAFU) ⭐ 46 | 🐛 10 | 🌐 Java | 📅 2026-06-29 - Java library and CLI utility for working with CTAP devices over USBHID and NFC
 * [MasterKale: WebAuthn Previewer](https://github.com/MasterKale/webauthn-previewer) ⭐ 16 | 🐛 0 | 🌐 TypeScript | 📅 2025-09-30 - A simple website for previewing WebAuthn attestations and assertions.
 * [Shane B Weeden: FIDO2 Postman Clients](https://github.com/sbweeden/fido2-postman-clients) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2024-08-27 - FIDO2 Postman clients to easily test your FIDO2 API endpoints.
@@ -225,4 +225,4 @@ Otherwise we have strict no ads policy. We will only link to open source repos a
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

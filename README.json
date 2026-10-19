@@ -110,7 +110,7 @@
             "open_issues": 2,
             "owner": "google",
             "repo": "webauthndemo",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "authentication",
               "authentication-backend",
@@ -210,7 +210,7 @@
             "language": "JavaScript",
             "license": "MPL-2.0",
             "last_commit": "2026-10-16T16:57:41Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "jcjones",
             "repo": "webauthn.bin.coffee",
             "stars": 97,
@@ -512,7 +512,7 @@
             "open_issues": 13,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1349,
+            "stars": 1351,
             "topics": [
               "ctap2",
               "fido2",
@@ -543,7 +543,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "py_webauthn",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "duo",
               "fido2",
@@ -1375,8 +1375,8 @@
             "id": 130169332,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T12:54:44Z",
-            "open_issues": 25,
+            "last_commit": "2026-10-19T07:49:14Z",
+            "open_issues": 26,
             "owner": "Yubico",
             "repo": "libfido2",
             "stars": 739,
@@ -1507,8 +1507,8 @@
             "id": 195424265,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T11:57:17Z",
-            "open_issues": 19,
+            "last_commit": "2026-10-19T07:31:54Z",
+            "open_issues": 20,
             "owner": "Yubico",
             "repo": "yubikit-android",
             "stars": 160,
@@ -1693,11 +1693,11 @@
             "id": 531127925,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T07:50:01Z",
+            "last_commit": "2026-10-19T07:13:34Z",
             "open_issues": 62,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1602,
+            "stars": 1604,
             "topics": [
               "cryptography",
               "fido",
@@ -1722,10 +1722,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2024-08-01T18:48:41Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "bulwarkid",
             "repo": "virtual-fido",
-            "stars": 1417,
+            "stars": 1418,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1871,7 +1871,7 @@
             "open_issues": 20,
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 275,
+            "stars": 276,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1913,7 +1913,7 @@
             "open_issues": 3,
             "owner": "smlx",
             "repo": "piv-agent",
-            "stars": 108,
+            "stars": 109,
             "topics": [
               "age",
               "age-plugin",
@@ -2068,7 +2068,7 @@
             "open_issues": 16,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3454,
+            "stars": 3455,
             "topics": [
               "ctap2",
               "embedded",
@@ -2201,7 +2201,7 @@
             "open_issues": 3,
             "owner": "descope",
             "repo": "virtualwebauthn",
-            "stars": 130,
+            "stars": 131,
             "topics": [
               "authentication",
               "automation",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:19:47.592Z",
+    "last_updated": "2026-10-19T09:17:45.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
