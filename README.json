@@ -19,7 +19,7 @@
             "open_issues": 13,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "browser",
               "commonjs",
@@ -49,10 +49,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-16T01:31:12Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1456,
+            "stars": 1455,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -137,7 +137,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-22T18:36:10Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "web-auth",
             "repo": "webauthn-framework",
             "stars": 522,
@@ -209,8 +209,8 @@
             "id": 102907721,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-21T16:22:01Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-24T13:13:22Z",
+            "open_issues": 2,
             "owner": "jcjones",
             "repo": "webauthn.bin.coffee",
             "stars": 97,
@@ -449,7 +449,7 @@
             "open_issues": 13,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "browser",
               "commonjs",
@@ -479,10 +479,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-10-16T01:31:12Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1456,
+            "stars": 1455,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -807,7 +807,7 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-10-22T18:36:10Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "web-auth",
             "repo": "webauthn-framework",
             "stars": 522,
@@ -1346,7 +1346,7 @@
             "open_issues": 13,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2373,
+            "stars": 2374,
             "topics": [
               "browser",
               "commonjs",
@@ -1746,7 +1746,7 @@
             "open_issues": 20,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 627,
+            "stars": 629,
             "topics": [
               "authenticator",
               "ccid",
@@ -1787,7 +1787,7 @@
             "open_issues": 20,
             "owner": "tejado",
             "repo": "Authorizer",
-            "stars": 572,
+            "stars": 571,
             "topics": [
               "android",
               "auto-type",
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3461,
+            "stars": 3464,
             "topics": [
               "ctap2",
               "embedded",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:24:05.640Z",
+    "last_updated": "2026-10-25T08:42:44.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
