@@ -19,7 +19,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "browser",
               "commonjs",
@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1458,
+            "stars": 1459,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -82,7 +82,7 @@
             "open_issues": 3,
             "owner": "duo-labs",
             "repo": "webauthn.io",
-            "stars": 746,
+            "stars": 747,
             "topics": [
               "authentication",
               "demo",
@@ -449,7 +449,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "browser",
               "commonjs",
@@ -482,7 +482,7 @@
             "open_issues": 8,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1458,
+            "stars": 1459,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -611,7 +611,7 @@
             "open_issues": 29,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 718,
+            "stars": 720,
             "topics": [
               "security",
               "webauthn"
@@ -647,6 +647,42 @@
         },
         {
           "node_type": "item",
+          "title": "lbuchs: PHP Webauthn",
+          "description": "A simple PHP WebAuthn (FIDO2) server library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple PHP WebAuthn (FIDO2/Passkey) server library",
+            "homepage": "https://webauthn.lubu.ch",
+            "id": 149437753,
+            "language": "PHP",
+            "license": "MIT",
+            "last_commit": "2025-09-05T06:34:22Z",
+            "open_issues": 50,
+            "owner": "lbuchs",
+            "repo": "WebAuthn",
+            "stars": 600,
+            "topics": [
+              "2fa",
+              "apple-authenticator",
+              "fido",
+              "fido2",
+              "fido2-authenticator",
+              "passkey",
+              "passkeys",
+              "php-library",
+              "php-webauthn",
+              "safetynet-api",
+              "security",
+              "two-factor-authentication",
+              "webauthn",
+              "windows-hello"
+            ]
+          },
+          "first_seen": "2026-08-28T15:39:36.882Z"
+        },
+        {
+          "node_type": "item",
           "title": "WebAuthn4J Project: WebAuthn4J",
           "description": "A portable Java library for WebAuthn server side verification.",
           "children": [],
@@ -671,42 +707,6 @@
               "passkeys",
               "u2f",
               "webauthn"
-            ]
-          },
-          "first_seen": "2026-08-28T15:39:36.882Z"
-        },
-        {
-          "node_type": "item",
-          "title": "lbuchs: PHP Webauthn",
-          "description": "A simple PHP WebAuthn (FIDO2) server library.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple PHP WebAuthn (FIDO2/Passkey) server library",
-            "homepage": "https://webauthn.lubu.ch",
-            "id": 149437753,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2025-09-05T06:34:22Z",
-            "open_issues": 50,
-            "owner": "lbuchs",
-            "repo": "WebAuthn",
-            "stars": 599,
-            "topics": [
-              "2fa",
-              "apple-authenticator",
-              "fido",
-              "fido2",
-              "fido2-authenticator",
-              "passkey",
-              "passkeys",
-              "php-library",
-              "php-webauthn",
-              "safetynet-api",
-              "security",
-              "two-factor-authentication",
-              "webauthn",
-              "windows-hello"
             ]
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -985,7 +985,7 @@
             "language": "Swift",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T21:50:53Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "brokenhandsio",
             "repo": "swift-webauthn",
             "stars": 178,
@@ -1346,7 +1346,7 @@
             "open_issues": 7,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2386,
+            "stars": 2387,
             "topics": [
               "browser",
               "commonjs",
@@ -1472,8 +1472,8 @@
             "id": 634856767,
             "language": "Dart",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T10:36:53Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-08T09:57:08Z",
+            "open_issues": 5,
             "owner": "corbado",
             "repo": "flutter-passkeys",
             "stars": 189,
@@ -1697,7 +1697,7 @@
             "open_issues": 65,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1644,
+            "stars": 1645,
             "topics": [
               "cryptography",
               "fido",
@@ -1742,11 +1742,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T00:54:17Z",
+            "last_commit": "2026-11-07T23:02:02Z",
             "open_issues": 20,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 670,
+            "stars": 671,
             "topics": [
               "authenticator",
               "ccid",
@@ -1871,7 +1871,7 @@
             "open_issues": 20,
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 278,
+            "stars": 279,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2150,7 +2150,7 @@
             "language": "Java",
             "license": "MIT",
             "last_commit": "2026-10-18T08:14:28Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
             "stars": 169,
@@ -2425,11 +2425,11 @@
             "id": 51303856,
             "language": "Bikeshed",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-07T02:57:41Z",
+            "last_commit": "2026-11-08T01:01:07Z",
             "open_issues": 111,
             "owner": "w3c",
             "repo": "webauthn",
-            "stars": 1490,
+            "stars": 1489,
             "topics": [
               "webauthn"
             ]
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T10:40:22.175Z",
+    "last_updated": "2026-11-08T10:45:17.738Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
