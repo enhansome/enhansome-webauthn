@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2398,
+            "stars": 2397,
             "topics": [
               "browser",
               "commonjs",
@@ -136,8 +136,8 @@
             "id": 158743608,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T18:15:12Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-17T21:46:38Z",
+            "open_issues": 5,
             "owner": "web-auth",
             "repo": "webauthn-framework",
             "stars": 524,
@@ -449,7 +449,7 @@
             "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2398,
+            "stars": 2397,
             "topics": [
               "browser",
               "commonjs",
@@ -508,11 +508,11 @@
             "id": 438441323,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-17T12:09:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-18T12:08:56Z",
+            "open_issues": 18,
             "owner": "go-webauthn",
             "repo": "webauthn",
-            "stars": 1365,
+            "stars": 1366,
             "topics": [
               "ctap2",
               "fido2",
@@ -573,7 +573,7 @@
             "open_issues": 12,
             "owner": "cedarcode",
             "repo": "webauthn-ruby",
-            "stars": 777,
+            "stars": 778,
             "topics": [
               "2fa",
               "2fa-security",
@@ -611,7 +611,7 @@
             "open_issues": 30,
             "owner": "kanidm",
             "repo": "webauthn-rs",
-            "stars": 724,
+            "stars": 725,
             "topics": [
               "security",
               "webauthn"
@@ -635,7 +635,7 @@
             "open_issues": 0,
             "owner": "passwordless-id",
             "repo": "webauthn",
-            "stars": 619,
+            "stars": 620,
             "topics": [
               "authentication",
               "passkeys",
@@ -806,8 +806,8 @@
             "id": 158743608,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-10T18:15:12Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-17T21:46:38Z",
+            "open_issues": 5,
             "owner": "web-auth",
             "repo": "webauthn-framework",
             "stars": 524,
@@ -870,7 +870,7 @@
             "open_issues": 11,
             "owner": "asbiin",
             "repo": "laravel-webauthn",
-            "stars": 312,
+            "stars": 311,
             "topics": [
               "authentication",
               "hacktoberfest",
@@ -1346,7 +1346,7 @@
             "open_issues": 10,
             "owner": "MasterKale",
             "repo": "SimpleWebAuthn",
-            "stars": 2398,
+            "stars": 2397,
             "topics": [
               "browser",
               "commonjs",
@@ -1693,11 +1693,11 @@
             "id": 531127925,
             "language": "C",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T08:54:55Z",
+            "last_commit": "2026-11-18T10:13:49Z",
             "open_issues": 66,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1671,
+            "stars": 1672,
             "topics": [
               "cryptography",
               "fido",
@@ -1742,11 +1742,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-16T22:35:18Z",
+            "last_commit": "2026-11-17T22:28:34Z",
             "open_issues": 23,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 696,
+            "stars": 701,
             "topics": [
               "authenticator",
               "ccid",
@@ -1871,7 +1871,7 @@
             "open_issues": 21,
             "owner": "fmeum",
             "repo": "WearAuthn",
-            "stars": 281,
+            "stars": 282,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -1889,7 +1889,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2024-02-02T18:20:12Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "bulwarkid",
             "repo": "bulwark-passkey",
             "stars": 133,
@@ -2065,10 +2065,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-17T10:29:08Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "google",
             "repo": "OpenSK",
-            "stars": 3489,
+            "stars": 3492,
             "topics": [
               "ctap2",
               "embedded",
@@ -2452,7 +2452,7 @@
             "open_issues": 3,
             "owner": "hullarb",
             "repo": "ssheasy",
-            "stars": 423,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T12:26:22.298Z",
+    "last_updated": "2026-11-18T12:13:55.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
@@ -2512,7 +2512,7 @@
       "id": 164412657,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-10T04:45:10Z",
+      "last_commit": "2026-11-18T10:39:55Z",
       "open_issues": 7,
       "owner": "yackermann",
       "repo": "awesome-webauthn",
@@ -2528,7 +2528,7 @@
         "webauthn"
       ]
     },
-    "original_repository_sha": "cba0e0acdb4092af1436345a6f750210e2b94006",
+    "original_repository_sha": "2504b7cc876ccfe06591aa0892aa5ddbd4d72391",
     "enhanced_repository": "enhansome/enhansome-webauthn",
     "enhanced_repository_description": null,
     "title": "🔐 WebAuthn and Passkeys Awesome with stars"
