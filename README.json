@@ -52,7 +52,7 @@
             "open_issues": 8,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1464,
+            "stars": 1463,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -482,7 +482,7 @@
             "open_issues": 8,
             "owner": "passwordless-lib",
             "repo": "fido2-net-lib",
-            "stars": 1464,
+            "stars": 1463,
             "topics": [
               "asp-net-core",
               "ctap",
@@ -573,7 +573,7 @@
             "open_issues": 11,
             "owner": "cedarcode",
             "repo": "webauthn-ruby",
-            "stars": 779,
+            "stars": 780,
             "topics": [
               "2fa",
               "2fa-security",
@@ -631,8 +631,8 @@
             "id": 523630008,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T14:10:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-27T13:29:13Z",
+            "open_issues": 0,
             "owner": "passwordless-id",
             "repo": "webauthn",
             "stars": 621,
@@ -757,7 +757,7 @@
             "open_issues": 28,
             "owner": "Yubico",
             "repo": "java-webauthn-server",
-            "stars": 569,
+            "stars": 570,
             "topics": [
               "authentication",
               "fido",
@@ -1507,8 +1507,8 @@
             "id": 195424265,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-27T12:31:59Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-27T14:31:40Z",
+            "open_issues": 12,
             "owner": "Yubico",
             "repo": "yubikit-android",
             "stars": 165,
@@ -1694,10 +1694,10 @@
             "language": "C",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-18T10:13:49Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "polhenarejos",
             "repo": "pico-fido",
-            "stars": 1690,
+            "stars": 1695,
             "topics": [
               "cryptography",
               "fido",
@@ -1742,11 +1742,11 @@
             "id": 1266469959,
             "language": "Rust",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T01:42:30Z",
+            "last_commit": "2026-11-28T00:39:21Z",
             "open_issues": 21,
             "owner": "TheMaxMur",
             "repo": "RS-Key",
-            "stars": 726,
+            "stars": 727,
             "topics": [
               "authenticator",
               "ccid",
@@ -2153,7 +2153,7 @@
             "open_issues": 0,
             "owner": "BryanJacobs",
             "repo": "FIDO2Applet",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T15:39:36.882Z"
@@ -2425,7 +2425,7 @@
             "id": 51303856,
             "language": "Bikeshed",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-27T13:05:41Z",
+            "last_commit": "2026-11-27T18:59:53Z",
             "open_issues": 116,
             "owner": "w3c",
             "repo": "webauthn",
@@ -2504,7 +2504,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T13:05:46.997Z",
+    "last_updated": "2026-11-28T12:19:49.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "🔐 A curated list of awesome WebAuthn and Passkey resources",
